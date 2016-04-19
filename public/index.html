@@ -1,0 +1,85 @@
+<!-- index.html -->
+<!doctype html>
+
+<!-- ESPECIFICANDO NOSSO MÓDULO ANGULAR listaContatos -->
+<html ng-app="listaPoliticos">
+<head>
+    <!-- META -->
+    <meta charset="utf-8">
+    <!-- Otimizar a exibição em dispositivos móveis -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Lista de Ocorrências Políticos</title>
+
+    <!-- CSS -->
+    <!-- Carregando o bootstrap-->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+    <style>
+        html                    { overflow-y:scroll; }
+        body                    { padding-top:50px; }
+        #lista-politicos         { margin-bottom:30px; }
+        form button             { margin-top: 25px; }
+        form .form-group:first-child { padding-left: 0; }
+    </style>
+
+    <!-- JS -->
+    <!-- Carregando a biblioteca jQuery -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <!-- Carregando a biblioteca AngularJS -->
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
+    <script src="angularApp.js"></script>
+
+</head>
+<!-- DEFINE O CONTROLLER E BUSCA TODOS OS CONTATOS -->
+<body ng-controller="mainController">
+    <div class="container">
+
+        <!-- CABEÇALHO E TOTAL DE CONTATOS -->
+        <div class="jumbotron text-center">
+               <h2>Ocorrências na Justiça e/ou nos Tribunais de Contas dos Deputados</h2>
+        </div>
+        <div class="jumbotron text-justify">
+                Levantamento sobre "as ocorrências na Justiça e/ou nos Tribunais de Contas" dos 513 deputados que votarão o impeachment da presidente Dilma Rousseff neste domingo, 17 de abril de 2016. <br/>
+                <h3>Fonte: www.lupa.news / @LupaNew - Total registros: <span class="label label-info">{{ politicos.length }}</span></h3>
+        </div>
+
+        <!-- LISTA NOSSOS CONTATOS -->
+        <div id="lista-politicos">
+            <table class="table table-striped">
+                <tr>
+                    <th>Qtde</th>
+                    <th>Deputado</th>
+                    <th>Sigla</th>
+                    <th>UF</th>
+                    <th>Total Ocorrências</th>
+                    <th>Resumo</th>
+                    <th>Data Atualização</th>
+                </tr>
+
+                <!-- LOOP PARA CARREGAR TODOS OS CONTATOS EM $scope.contatos -->
+                <tr ng-repeat="politico in politicos">
+                    <td>{{ politico.qtde }}</td>
+                    <td>{{ politico.deputado }}</td>
+                    <td>{{ politico.sigla }}</td>
+                    <td>{{ politico.uf }}</td>
+                    <td>{{ politico.ocorrencia }}</td>
+                    <td>{{ politico.resumo }}</td>
+                    <td>{{ politico.dataAtualizacao }}</td>
+                </tr>
+
+            </table>
+        </div>
+
+        <!-- FORMULÁRIO PARA CRIARMOS UM NOVO CONTATO -->
+        <div id="contato-form">
+            <hr>
+            <form>
+                <div class="form-group col-md-12">
+                    <button type="submit" class="btn btn-info" ng-click="atualizarLista()">Atualizar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>

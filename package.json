@@ -1,0 +1,22 @@
+{
+  "name": "lista-politicos",
+  "version": "0.0.1",
+  "description": "Exemplo app utilizando mongo/mongose/angular/express/node, com a lista do site: xxx",
+  "main": "server.js",
+  "keywords": [
+    "angular",
+    "express",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Diego Ferreira",
+  "license": "WTFPL",
+  "dependencies": {
+    "mongoose": "^4.4.6",
+    "express" : "^4.7.2",
+    "morgan"  : "^1.2.2",
+    "body-parser" : "^1.5.2",
+    "method-override" : "^2.1.2",
+    "pdf2json" : "^1.1.5"
+  }
+}
