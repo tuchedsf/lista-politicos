@@ -1,4 +1,4 @@
-<!-- index.html -->
+﻿<!-- index.html -->
 <!doctype html>
 
 <!-- ESPECIFICANDO NOSSO MÓDULO ANGULAR listaContatos -->
@@ -47,7 +47,7 @@
         <div id="lista-politicos">
             <table class="table table-striped">
                 <tr>
-                    <th>Qtde</th>
+                <!--  <th>Qtde</th>-->  
                     <th>Deputado</th>
                     <th>Sigla</th>
                     <th>UF</th>
@@ -58,11 +58,11 @@
 
                 <!-- LOOP PARA CARREGAR TODOS OS CONTATOS EM $scope.contatos -->
                 <tr ng-repeat="politico in politicos">
-                    <td>{{ politico.qtde }}</td>
-                    <td>{{ politico.deputado }}</td>
-                    <td>{{ politico.sigla }}</td>
-                    <td>{{ politico.uf }}</td>
-                    <td>{{ politico.ocorrencia }}</td>
+               <!--   <td>0</td>-->  
+                    <td>{{ politico.nome }}</td>
+                    <td>{{ politico.partido }}</td>
+                    <td>{{ politico.estado }}</td>
+                    <td>{{ politico.totalOcorrencia }}</td>
                     <td>{{ politico.resumo }}</td>
                     <td>{{ politico.dataAtualizacao }}</td>
                 </tr>
@@ -80,6 +80,5 @@
             </form>
         </div>
     </div>
-
 </body>
 </html>

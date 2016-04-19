@@ -6,7 +6,7 @@ var listaPoliticos = angular.module('listaPoliticos', []);
 function mainController($scope, $http){
   // Quando acessar a página, carrega todos os contatos e envia para a view($scope)
     var refresh = function (){
-        $http.get('/api/politicos')
+        $http.get('/api/all')
             .success(function(data) {
                 $scope.politicos = data;
                 $scope.formPoliticos = {};

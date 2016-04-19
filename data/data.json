@@ -1,0 +1,3862 @@
+{
+  "politicos": [
+    {
+      "nome": "Abel Mesquita Jr.",
+      "partido": "DEM",
+      "estado": "RR",
+      "totalOcorrencias": "0",
+      "resumo": "-",
+      "dataAtualizacao": "19/10/2015"
+    },
+    {
+      "nome": "Carlos Andrade",
+      "partido": "PHS",
+      "estado": "RR",
+      "totalOcorrencias": "4",
+      "resumo": "É alvo de representação movida pelo Ministério Público, por captação ou gastoilícito de recursos financeiros de campanha eleitoral. Teve reprovada a prestaçãode contas das eleições de 2014 para deputado federal. O parlamentar recorre dadecisão. O PHS, partido do qual Carlos Andrade é presidente estadual, teve ascontas das eleições de 2012 rejeitadas. Multado por irregularidades na prestaçãode contas da Boa Vista Energia de 2004 de sua responsabilidade.",
+      "dataAtualizacao": "19/10/2015"
+    },
+    {
+      "nome": "Edio Lopes",
+      "partido": "PR",
+      "estado": "RR",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação penal por peculato. De acordo a denúncia, o parlamentar desvioudinheiro público, em proveito próprio e alheio, por meio da indicação de trêsservidores para ocuparem cargos comissionados em seu gabinete, sem a exigênciade prestação de serviços, nos anos de 2005 e 2006.",
+      "dataAtualizacao": "30/03/2016"
+    },
+    {
+      "nome": "Hiran Gonçalves",
+      "partido": "PP",
+      "estado": "RR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jhonatan de Jesus",
+      "partido": "PRB",
+      "estado": "RR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Maria Helena",
+      "partido": "PSB",
+      "estado": "RR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Remídio Monai",
+      "partido": "PR",
+      "estado": "RR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Shéridan",
+      "partido": "PSDB",
+      "estado": "RR",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de ação civil de improbidade administrativa (dano ao erário) por titulaçãoirregular de terras públicas em beneficio próprio, quando secretária estadual. Açãotambém envolve seu marido, ex-governador de RoraimaJose de Anchieta Junior. +É alvo de inquérito que apura crimes eleitorais. De acordo com a de denúncia, aparlamentar ofereceu vantagens, formulando propostas de pagamento de multas detrânsito e incluindo eleitores em programas sociais do governo, entre outrasdádivas, em troca de votos em José de Anchieta Júnior, então candidato àreeleição para o mandato de governador em 2010.",
+      "dataAtualizacao": "10/12/2015"
+    },
+    {
+      "nome": "Afonso Hamm",
+      "partido": "PP",
+      "estado": "RS",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito aberto com a Operação Lava Jato da Policia Federal, queinvestiga esquema de corrupção e lavagem de dinheiro com recursos desviados daPetrobras."
+    },
+    {
+      "nome": "Afonso Motta",
+      "partido": "PDT",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Alceu Moreira",
+      "partido": "PMDB",
+      "estado": "RS",
+      "totalOcorrencias": "4",
+      "resumo": "Foi condenado por improbidade administrativa. A Justiça considerou que houvedesvio de finalidade na contratação de dois funcionários pela prefeitura de Osório edeterminou o ressarcimento de danos ao erário e o pagamento de multa. Oparlamentar interpôs recurso, que foi negado. Em seguida, interpôs agravo emterceira instância contra a decisão que negou seguimento ao recurso, mas ela foimantida. Réu em processo por improbidade administrativa, foi condenado emsegunda instância ao pagamento de multa por contratação irregular de funcionáriopúblico. Há recurso julgado prejudicado. Foi condenado ao pagamento de multa porconduta vedada a agente público (uso irregular de serviço social de saúde pública).A decisão foi mantida em segunda instância. É alvo de inquérito que apura crimesda Lei de licitações e corrupção passiva. O processo corre sob segredo de justiça.",
+      "dataAtualizacao": "30/11/2015"
+    },
+    {
+      "nome": "Bohn Gass",
+      "partido": "PT",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Carlos Gomes",
+      "partido": "PRB",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Covatti Filho",
+      "partido": "PP",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Danrlei de Deus Hinterholz",
+      "partido": "PSD",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Darcísio Perondi",
+      "partido": "PMDB",
+      "estado": "RS",
+      "totalOcorrencias": "2",
+      "resumo": "Foi condenado em ação civil pública que investigava cobrança indevida dehonorários médicos de pacientes do SUS quando o parlamentar era presidente doHospital de Caridade de Ijuí/RS. Recorreu, mas decisão foi mantida. O parlamentarinterpôs recurso. Teve rejeitada a prestação de contas referente às eleições de2002.",
+      "dataAtualizacao": "04/12/2015"
+    },
+    {
+      "nome": "Giovani Cherini",
+      "partido": "PDT",
+      "estado": "RS",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenado em ação movida pelo Ministério Público Eleitoral por abuso depoder econômico e compra de votos. A Justiça decretou sua inelegibilidade por trêsanos, a contar das eleições de 2006.",
+      "dataAtualizacao": "03/12/2015"
+    },
+    {
+      "nome": "Heitor Schuch",
+      "partido": "PSB",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Henrique Fontana",
+      "partido": "PT",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jerônimo Goergen",
+      "partido": "PP",
+      "estado": "RS",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito aberto com a Operação Lava Jato, é réu em ação civil porimprobidade administrativa movida pela Promotoria de Justiça de Defesa doPatrimônio Público referente a indicação de assessor parlamentar que agia comofuncionário fantasma",
+      "dataAtualizacao": "02/12/2015"
+    },
+    {
+      "nome": "João Derly",
+      "partido": "REDE",
+      "estado": "RS",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação penal por crimes eleitorais. O Ministério Público acusa o parlamentarde ter realizado propaganda de boca de urna ou arregimentado eleitores no dia daseleições em 2012."
+    },
+    {
+      "nome": "José Fogaça",
+      "partido": "PMDB",
+      "estado": "RS",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenado a pagamento de multa por conduta vedada a agente público. AJustiça considerou ilegal a concessão de bônus-moradia para reassentamento defamílias em ano eleitoral. Recorreu em segunda instância e conseguiu reforma dadecisão para diminuição do valor da multa. Recorreu em terceira instância, e orecurso foi negado"
+    },
+    {
+      "nome": "José Otávio Germano",
+      "partido": "PP",
+      "estado": "RS",
+      "totalOcorrencias": "4",
+      "resumo": "Foi multado por infração a normas de administração financeira e orçamentáriaquando comandava a Secretaria da Justiça e da Segurança do Rio Grande do Sul.É alvo de inquéritos abertos com a Operação Lava Jato da Policia Federal, queinvestigam esquema de corrupção, formação de quadrilha e lavagem de dinheirocom recursos desviados da Petrobras. É alvo de ações por improbidadeadministrativa movidas pelos Ministérios Públicos Estadual e Federal",
+      "dataAtualizacao": "04/12/2015"
+    },
+    {
+      "nome": "Jose Stédile",
+      "partido": "PSB",
+      "estado": "RS",
+      "totalOcorrencias": "8",
+      "resumo": "É réu em ação penal movida pelo Ministério Público do Rio Grande do Sul porcrimes contra o sistema financeiro nacional. É alvo de inquérito por crimes contra osistema financeiro nacional movido pelo Ministério Público Federal. O parlamentar éinvestigado por suposta participação na aquisição de títulos da dívida pública porFundo Municipal de Assistência e Previdência do Servidor Público, quando prefeitode Cachoeirinha. É alvo de ação civil pública movida pelo Ministério PúblicoEstadual.",
+      "dataAtualizacao": "03/12/2015"
+    },
+    {
+      "nome": "Luis Carlos Heinze",
+      "partido": "PP",
+      "estado": "RS",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito aberto com a Operação Lava Jato da Policia Federal, queinvestiga esquema de corrupção, formação de quadrilha e lavagem de dinheiro comrecursos desviados da Petrobras.",
+      "dataAtualizacao": "30/11/2015"
+    },
+    {
+      "nome": "Luiz Carlos Busato",
+      "partido": "PTB",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Marco Maia",
+      "partido": "PT",
+      "estado": "RS",
+      "totalOcorrencias": "2",
+      "resumo": "Foi responsabilizado e multado por infrações a leis e regulamentos deadministração contábil, financeira, orçamentária, operacional e patrimonial.Recorreu da decisão, que foi mantida. Foi multado por infringência de normas deadministração financeira e orçamentária nas áreas de patrimônio, licitações econtratos. O parlamentar recorreu da decisão, que foi mantida.",
+      "dataAtualizacao": "30/11/2015"
+    },
+    {
+      "nome": "Marcon",
+      "partido": "PT",
+      "estado": "RS",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenado em ação penal movida pelo Ministério Público Estadual por crime defalso testemunho em processo contra militante do MST. A Justiça determinou aprestação de serviços à comunidade e pagamento de salários mínimos em favor deentidade assistencial.",
+      "dataAtualizacao": "02/12/2015"
+    },
+    {
+      "nome": "Maria do Rosário",
+      "partido": "PT",
+      "estado": "RS",
+      "totalOcorrencias": "1",
+      "resumo": "Foram desaprovadas as contas de sua campanha eleitoral de 2008 para aprefeitura de Porto Alegre. A parlamentar recorreu da decisão, que foi mantida",
+      "dataAtualizacao": "04/12/2015"
+    },
+    {
+      "nome": "Mauro Pereira",
+      "partido": "PMDB",
+      "estado": "RS",
+      "totalOcorrencias": "3",
+      "resumo": "Teve desaprovada a prestação de contas das eleições de 2004 para vereador deCaxias do Sul. Recorreu, mas a decisão foi mantida. Teve desaprovada aprestação de contas das eleições de 2008. Recorreu, mas a decisão foi mantida.Foi condenado ao pagamento de multa de R$ 10.320,50 por propagandaextemporânea e conduta vedada a agente público. De acordo com a representaçãomovida pelo Ministério Público, foi publicada notícia no sítio da Câmara dosVereadores de Caxias do Sul (RS), anunciando a candidatura de Mauro Pereira aocargo de deputado federal. O parlamentar recorreu, mas a decisão foi mantida",
+      "dataAtualizacao": "04/12/2015"
+    },
+    {
+      "nome": "Nelson Marchezan Junior",
+      "partido": "PSDB",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Onyx Lorenzoni",
+      "partido": "DEM",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Osmar Terra",
+      "partido": "PMDB",
+      "estado": "RS",
+      "totalOcorrencias": "3",
+      "resumo": "O TCE-RS apontou irregularidades nas suas gestões da Secretaria da Saúde e daPrefeitura e o condenou ao pagamento de multa",
+      "dataAtualizacao": "13/04/2016"
+    },
+    {
+      "nome": "Paulo Pimenta",
+      "partido": "PT",
+      "estado": "RS",
+      "totalOcorrencias": "2",
+      "resumo": "Condenado por improbidade administrativa em ação movida pelo Ministério PúblicoEstadual (recebimento de despesas irregulares). Mantida a decisão na segundainstância. É alvo de inquérito que apura crimes de lavagem ou ocultação de bens,direitos ou valores.É alvo de inquérito que apura crimes de lavagem ou ocultaçãode bens, direitos ou valores.",
+      "dataAtualizacao": "30/11/2015"
+    },
+    {
+      "nome": "Pepe Vargas",
+      "partido": "PT",
+      "estado": "RS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Pompeo de Mattos",
+      "partido": "PDT",
+      "estado": "RS",
+      "totalOcorrencias": "2",
+      "resumo": "Parlamentar foi condenado a inelegibilidade por três anos, a partir de 2006, porabuso de poder econômico por utilização de albergues estaduais para fazerpropaganda eleitoral",
+      "dataAtualizacao": "03/12/2015"
+    },
+    {
+      "nome": "Renato Molling",
+      "partido": "PP",
+      "estado": "RS",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito aberto com a Operação Lava Jato da Policia Federal, queinvestiga esquema de corrupção, formação de quadrilha e lavagem de dinheiro comrecursos desviados da Petrobras. Condenado a ressarcir o montante gasto com apublicação de editais de dispensa de licitação, bem como à suspensão dos direitospolíticos pelo período de três anos. À época em que era prefeito do município deSapiranga, o parlamentar contratou a empresa ACB Torres Advogados Associadossem o devido processo licitatório.",
+      "dataAtualizacao": "04/12/2015"
+    },
+    {
+      "nome": "Ronaldo Nogueira",
+      "partido": "PTB",
+      "estado": "RS",
+      "totalOcorrencias": "1",
+      "resumo": "Teve reprovadas as contas referentes à campanha eleitoral de 2014. O parlamentarrecorreu, mas a decisão foi mantida",
+      "dataAtualizacao": "03/12/2015"
+    },
+    {
+      "nome": "Sérgio Moraes",
+      "partido": "PTB",
+      "estado": "RS",
+      "totalOcorrencias": "4",
+      "resumo": "Condenado por improbidade administrativa a pagar multa civil e a ressarcir oscofres municipais das quantias gastas com publicidade para promoção pessoal.Mantida condenação em segunda e terceira instâncias. Parlamentar recorreu, masa decisão foi mantida. Condenado por improbidade administrativa a suspensão dosdireitos políticos e perda da função pública. O parlamentar recorreu em terceirainstância, mas a decisão foi mantida. Condenado a pagar indenização a ex-vereador por agressões físicas. Teve rejeitadas as contas eleitorais referentes àcampanha de 2014. O parlamentar recorre em terceira instância.",
+      "dataAtualizacao": "04/12/2015"
+    },
+    {
+      "nome": "Carmen Zanotto",
+      "partido": "PPS",
+      "estado": "SC",
+      "totalOcorrencias": "4",
+      "resumo": "É ré em ação civil de improbidade administrativa por enriquecimento ilícito movidapelo Ministério Público Estadual. Foram constatadas irregularidades noprocedimento licitatório referente a contrato de gestão do Hospital Infantil DoutorJeser Amarante Faria para o ano de 2008, no qual a parlamentar estava à frente daSecretaria de Saúde estadual. Zanotto recorre da decisão que determinou opagamento de multa.",
+      "dataAtualizacao": "15/12/2015"
+    },
+    {
+      "nome": "Celso Maldaner",
+      "partido": "PMDB",
+      "estado": "SC",
+      "totalOcorrencias": "4",
+      "resumo": "Foi condenado em ação de improbidade administrativa movida pelo MinistérioPúblico Estadual por prática ilícita cometida quando ocupava o cargo de secretárioestadual. A Justiça determinou o pagamento de multa. A sentença foi mantida emsegunda instância, com redução do valor da multa.",
+      "dataAtualizacao": "15/12/2015"
+    },
+    {
+      "nome": "Cesar Souza",
+      "partido": "PSD",
+      "estado": "SC",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação civil pública movida pelo Ministério Público Federal sobre dano aomeio ambiente.",
+      "dataAtualizacao": "13/04/2016"
+    },
+    {
+      "nome": "Décio Lima",
+      "partido": "PT",
+      "estado": "SC",
+      "totalOcorrencias": "11",
+      "resumo": "Foi condenado em ação popular por lesão ao erário na utilização de propagandainstitucional para promoção pessoal. A decisão foi mantida em outras instâncias.Foi condenado por uso de verbas públicas para promoção pessoal quando prefeito.A Justiça determinou o ressarcimento da verba aos cofres públicos. A decisão foimantida em segunda instância. O parlamentar recorreu. Foi condenado porimprobidade administrativa pela transferência irregular de recursos do ServiçoAutônomo Municipal de Terminais Rodoviários de Blumenau (SETERB) para omunicípio de Blumenau durante a sua gestão como prefeito. A Justiça determinou opagamento de multa. O parlamentar recorre da decisão. Foi responsabilizado porirregularidades referentes à gestão de recursos de convênios com o governofederal durante a época em que foi prefeito de Blumenau. Recorreu da decisão, quefoi mantida. É réu em ação penal referente a crime de responsabilidade por usoindevido de recursos públicos em proveito próprio ou alheio. É alvo de inquérito queinvestiga improbidade administrativa, crimes da Lei de Licitações e crimespraticados por funcionários públicos contra a administração em gera",
+      "dataAtualizacao": "15/12/2015"
+    },
+    {
+      "nome": "Esperidião Amin",
+      "partido": "PP",
+      "estado": "SC",
+      "totalOcorrencias": "2",
+      "resumo": "É réu em ações civis públicas movidas pelo Ministério Público Estadual e peloestado de Santa Catarina por improbidade administrativa e dano ao erário",
+      "dataAtualizacao": "15/12/2015"
+    },
+    {
+      "nome": "Geovania de Sá",
+      "partido": "PSDB",
+      "estado": "SC",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenada ao pagamento de multa em virtude de irregularidades constatadasem relação ao desrespeito à ordem cronológica das exigibilidades pelo FundoMunicipal de Saúde de Criciúma durante o exercício de 2013, ano em que aparlamentar era secretária de Saúde do município. Há recurso em andamento",
+      "dataAtualizacao": "15/12/2015"
+    },
+    {
+      "nome": "João Paulo Kleinübing",
+      "partido": "PSD",
+      "estado": "SC",
+      "totalOcorrencias": "19",
+      "resumo": "Foi condenado em ação civil de improbidade administrativa ao pagamento de multacorrespondente a 5 vezes o subsídio que recebia enquanto prefeito de Blumenau.O parlamentar, então prefeito, autorizou o pagamento de gratificações afuncionários de confiança sem que houvesse ato normativo anterior que fixasse asatribuições de cada um desses cargos. Foi condenado em ação civil deimprobidade administrativa ao pagamento de multa correspondente a 5 vezes osubsídio que recebia enquanto prefeito de Blumenau. O parlamentar, entãoprefeito, autorizou o pagamento de gratificações a funcionários de confiança semque houvesse ato normativo anterior que fixasse as atribuições de cada um dessescargos. oram desaprovadas as contas do Diretório Estadual do PSD em SantaCatarina, referentes ao exercício financeiro de 2012. O parlamentar, na condição detesoureiro do Diretório, figura como responsável. A Justiça Eleitoral determinou asuspensão dos repasses do Fundo Partidário por três meses e a aplicação, no anoseguinte à decisão, de 12,5% dos recursos recebidos do Fundo para a criação emanutenção de um programa de promoção e difusão da participação política damulher. Multado pelo TCE-SC por irregularidades em contas anuais quando prefeitode Blumenau (SC). Multado por irregularidades em processo de licitação. É alvo dediversas ações civis públicas",
+      "dataAtualizacao": "14/04/2016"
+    },
+    {
+      "nome": "João Rodrigues",
+      "partido": "PSD",
+      "estado": "SC",
+      "totalOcorrencias": "5",
+      "resumo": "Foi condenado a cinco anos de prisão dispensar ilegalmente e fraudar licitação. Deacordo com a denúncia, o parlamentar, na condição de prefeito de Pinhalzinho,fraudou procedimento licitatório para comprar uma retroescavadeira da empresaMOTORMAC. O parlamentar conseguiu que a condenação fosse suspensa atéapreciação final do recurso. O STF manteve a decisão, mas o recurso ainda estáem andamento. Foi condenado por improbidade administrativa (atos contra aadministração pública) por determinar a pintura e decoração de prédios e benspúblicos municipais com as mesmas cores e layout gráfico do partido ao qual oparlamentar pertencia quando era prefeito do município. Foi condenado aopagamento de multa e à remoçao das pinturas realizadas. O parlamentar recorre dacondenação. É réu em outros três processos de ação civil de improbidadeadministrativa."
+    },
+    {
+      "nome": "Jorge Boeira",
+      "partido": "PP",
+      "estado": "SC",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jorginho Mello",
+      "partido": "PR",
+      "estado": "SC",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Marco Tebaldi",
+      "partido": "PSDB",
+      "estado": "SC",
+      "totalOcorrencias": "27",
+      "resumo": "O parlamentar recorre no STF de condenação em primeira instância por falsidadeideológica, que determinou pagamento de multa, inabilitação para o exercício decargo público e prisão, substituída por prestação de serviços à comunidade.Condenado ao pagamento de multa em ação por improbidade administrativamovida pelo Ministério Público. Condenado por improbidade administrativa. AJustiça determinou a suspensão dos direitos políticos e ressarcimento ao erário. Acondenação foi mantida em segunda instância, mas a pena de suspensão dedireitos políticos foi excluída. A Justiça determinou ressarcimento ao erário epagamento de multa. A condenação foi mantida em segunda instância.Foicondenado por crime de responsabilidade por apropriação ou desvio de bempúblico, mas houve prescrição da pretensão punitiva. É alvo de inquéritos queapuram sonegação de contribuição previdenciária, crimes de responsabilidade eprevistos na Lei de Licitações.É alvo de uma extensa lista de ações de improbidadeadministrativa movidas pelo MP.",
+      "dataAtualizacao": "17/12/2015"
+    },
+    {
+      "nome": "Mauro Mariani",
+      "partido": "PMDB",
+      "estado": "SC",
+      "totalOcorrencias": "1",
+      "resumo": "Réu em ação por improbidade administrativa. A ação havia sido extinta em primeirainstância, mas o TJ-SC anulou essa decisão",
+      "dataAtualizacao": "28/03/2015"
+    },
+    {
+      "nome": "Pedro Uczai",
+      "partido": "PT",
+      "estado": "SC",
+      "totalOcorrencias": "13",
+      "resumo": "O TRE-SC reprovou a prestação de contas do PT referente ao exercício de 2005,quando o parlamentar era dirigente do partido. É alvo de inquérito que apura crimesprevistos na Lei de Licitações. É alvo de ação civil pública por dano ao erário. Oprocesso corre sob segredo de justiça. É alvo de ação por improbidadeadministrativa movida pelo Ministério Público. O tribunal de segunda instânciaanulou a sentença que havia julgado o pedido do autor improcedente e determinouo que processo fosse julgado novamente. É alvo de ação por improbidadeadministrativa movida pelo Ministério Público. O tribunal de segunda instânciaproveu recurso do autor para dar continuidade à ação, após julgamento da primeirainstância pela improcedência do pedido.",
+      "dataAtualizacao": "16/12/2015"
+    },
+    {
+      "nome": "Rogério Peninha Mendonça",
+      "partido": "PMDB",
+      "estado": "SC",
+      "totalOcorrencias": "3",
+      "resumo": "O TCE-SC julgou irregulares contas da Empresa de Pesquisa e Extensão Ruralreferentes ao período em que o parlamentar figurava como responsável pelaentidade. No terceiro processo, o parlamentar foi multado pelo Tribunal",
+      "dataAtualizacao": "17/12/2015"
+    },
+    {
+      "nome": "Ronaldo Benedet",
+      "partido": "PMDB",
+      "estado": "SC",
+      "totalOcorrencias": "3",
+      "resumo": "É réu em ação por improbidade administrativa movida pelo Ministério PúblicoFederal. É alvo de inquérito que apura crimes eleitorais. É alvo de ação movidapelo Ministério Público por abuso eleitoral.",
+      "dataAtualizacao": "17/12/2015"
+    },
+    {
+      "nome": "Valdir Colatto",
+      "partido": "PMDB",
+      "estado": "SC",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "André Abdon",
+      "partido": "PP",
+      "estado": "AP",
+      "totalOcorrencias": "1",
+      "resumo": "Foram reprovadas suas contas de campanha para vereador de Macapá naseleições de 2012.",
+      "dataAtualizacao": "23/12/2015"
+    },
+    {
+      "nome": "Cabuçu Borges",
+      "partido": "PMDB",
+      "estado": "AP",
+      "totalOcorrencias": "2",
+      "resumo": "É investigado por abuso de poder econômico e uso indevido de meio decomunicação social em ações propostas pelo Ministério Público Eleitoral. A JustiçaEleitoral do Amapá considerou abusiva a atuação do Sistema Beija-flor deComunicação (da qual a família do parlamentar é proprietária) em favorecerpessoalmente os candidatos a cargos eletivos da mesma família e aliados políticos.",
+      "dataAtualizacao": "23/12/2015"
+    },
+    {
+      "nome": "Janete Capiberibe",
+      "partido": "PSB",
+      "estado": "AP",
+      "totalOcorrencias": "2",
+      "resumo": "Parlamentar e o marido, senador João Capiberibe, tiveram os mandatos cassadospor captação ilícita de sufrágio nas eleições de 2002. Recorreram, mas decisão foimantida. É alvo de inquérito que apura crimes de compra de votos e boca de urna,praticados durante as eleições de 2014."
+    },
+    {
+      "nome": "Jozi Araújo",
+      "partido": "PTN",
+      "estado": "AP",
+      "totalOcorrencias": "2",
+      "resumo": "No Relatório de Auditoria Anual de Contas do SESI/AP realizado pela CGU,referente à gestão do ano de 2013, foram apontados indícios de práticas denepotismo na entidade, dirigida pela parlamentar. O relatório afirma que sua irmã esua cunhada foram admitidas sem concurso para cargos que exigiam cursosuperior, qualificação que nenhuma das duas possuía. A CGU também apontouirregularidades na gestão de 2013 do Senai/AP, em seu Relatório de AuditoriaAnual de Contas do Senai/AP. Nesse caso, constatou-se que houve a contrataçãode funcionários fantasmas, de serviços superfaturados, dispensas irregulares delicitações e o pagamento de serviços não realizados.",
+      "dataAtualizacao": "23/12/2015"
+    },
+    {
+      "nome": "Marcos Reategui",
+      "partido": "PSD",
+      "estado": "AP",
+      "totalOcorrencias": "9",
+      "resumo": "É réu em ação civil de improbidade administrativa movida pelo MPE. É réu porcrimes de responsabilidade por acessar inquéritos e informar aos investigadossobre as investigações da Polícia Federal. Foi determinada sua prisão preventivaem novembro de 2013 e no mês seguinte conseguiu sua liberdade por meio deHabeas Corpus que determinou seu afastamento do cargo. Em virtude de suadiplomação como deputado federal, o processo foi remetido ao STF: Ação Penalreferente a crimes da Lei de Licitações, peculato e organização criminosa.Referente a crimes contra o sistema financeiro nacional. É também investigado emações civis de improbidade administrativas movidas pelo Ministério Público Federal.É investigado em processo por abuso de poder econômico movido pelo MinistérioPúblico Eleitoral.",
+      "dataAtualizacao": "23/12/2015"
+    },
+    {
+      "nome": "Professora Marcivania",
+      "partido": "PCdoB",
+      "estado": "AP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Roberto Góes",
+      "partido": "PDT",
+      "estado": "AP",
+      "totalOcorrencias": "25",
+      "resumo": "Foi multado por abuso do poder de autoridade, político e econômico, bem comoconduta vedada a agentes públicos, por realizar propaganda eleitoral custeada comrecursos públicos de Macapá, quando concorria à reeleição ao cargo de prefeito domunicípio. Também havia sido considerado inelegível, porém conseguiu reverter adecisão em recurso. Foi condenado ao pagamento de multa por ter autorizadoaquisição irregular de medicamentos sem licitação, no período em que era prefeitode Macapá. Responde, nas justiças federal e estadual, por ações de improbidadeadministrativa. Responde por seis ações penais no STF. Também responde pornove inquéritos no STF.",
+      "dataAtualizacao": "01/02/2016"
+    },
+    {
+      "nome": "Vinicius Gurgel",
+      "partido": "PR",
+      "estado": "AP",
+      "totalOcorrencias": "5",
+      "resumo": "É alvo de dois inquéritos que apuram crimes contra a ordem tributária. É alvo dedois inquéritos que apuram crimes eleitorais. É alvo de representação movida peloMinistério Público por compra de votos.",
+      "dataAtualizacao": "01/02/2016"
+    },
+    {
+      "nome": "Arnaldo Jordy",
+      "partido": "PPS",
+      "estado": "PA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Beto Faro",
+      "partido": "PT",
+      "estado": "PA",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de ação penal por tráfico de influência movida pelo Ministério PúblicoFederal.É alvo de inquérito que apura crimes de tráfico de influência.",
+      "dataAtualizacao": "22/07/2015"
+    },
+    {
+      "nome": "Beto Salame",
+      "partido": "PP",
+      "estado": "PA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Delegado Éder Mauro",
+      "partido": "PSD",
+      "estado": "PA",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação penal por ameaça",
+      "dataAtualizacao": "11/12/2015"
+    },
+    {
+      "nome": "Edmilson Rodrigues",
+      "partido": "PSOL",
+      "estado": "PA",
+      "totalOcorrencias": "4",
+      "resumo": "É alvo de ações civis por improbidade administrativa movidas pelo MinistérioPúblico Federal.",
+      "dataAtualizacao": "01/03/2016"
+    },
+    {
+      "nome": "Elcione Barbalho",
+      "partido": "PMDB",
+      "estado": "PA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Francisco Chapadinha",
+      "partido": "PTN",
+      "estado": "PA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Hélio Leite",
+      "partido": "DEM",
+      "estado": "PA",
+      "totalOcorrencias": "3",
+      "resumo": "É réu em diversas ações civis públicas de improbidade administrativa com dano aoerário movidas pelo Ministério Público Federal"
+    },
+    {
+      "nome": "Joaquim Passarinho",
+      "partido": "PSD",
+      "estado": "PA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "José Priante",
+      "partido": "PMDB",
+      "estado": "PA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Josué Bengtson",
+      "partido": "PTB",
+      "estado": "PA",
+      "totalOcorrencias": "2",
+      "resumo": "É réu em ação penal que apura peculato, crimes de lavagem ou ocultação de bens,corrupção ativa e passiva. Trata-se do caso da Máfia das Ambulâncias e daOperação Sanguessuga. É alvo de ação de improbidade administrativa movida peloMinistério Público Federal.",
+      "dataAtualizacao": "22/07/2015"
+    },
+    {
+      "nome": "Júlia Marinho",
+      "partido": "PSC",
+      "estado": "PA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Lúcio Vale",
+      "partido": "PR",
+      "estado": "PA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Nilson Pinto",
+      "partido": "PSDB",
+      "estado": "PA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Simone Morgado",
+      "partido": "PMDB",
+      "estado": "PA",
+      "totalOcorrencias": "1",
+      "resumo": "Enquanto presidenta do diretório municipal do PMBD em Bragança (PA), teve ascontas do exercício de 2003 julgadas irregulares.",
+      "dataAtualizacao": "02/09/2015"
+    },
+    {
+      "nome": "Wladimir Costa",
+      "partido": "SD",
+      "estado": "PA",
+      "totalOcorrencias": "3",
+      "resumo": "É réu em ação penal sobre peculato, movida pelo Ministério Público Federal. Corresob segredo de justiça. Responde a processo por crimes de captação ou gastoilícito de recursos financeiros em sua campanha eleitoral de 2014. Teve reprovadasas contas de campanha referentes à candidatura de 2014. O parlamentar recorreda decisão.",
+      "dataAtualizacao": "02/09/2015"
+    },
+    {
+      "nome": "Zé Geraldo",
+      "partido": "PT",
+      "estado": "PA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Alex Canziani",
+      "partido": "PTB",
+      "estado": "PR",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação civil pública por improbidade administrativa com dano ao eráriomovida pelo Ministério Público do Paraná. Teve decretada a indisponibilidade deseus bens e a quebra de sigilo bancário.",
+      "dataAtualizacao": "17/02/2016"
+    },
+    {
+      "nome": "Alfredo Kaefer",
+      "partido": "PSL",
+      "estado": "PR",
+      "totalOcorrencias": "3",
+      "resumo": "É réu em ação penal por crimes contra o sistema financeiro nacional e formação dequadrilha. De acordo com a denúncia, o parlamentar, quando ocupava o cargo depresidente-diretor do Conselho de Administração da SUL Financeira, autorizou aemissão de cartas-fiança sem consultar os registros contábeis, configurando gestãofraudulenta. Teria ainda realizado operações de desconto de títulos e firmadoempréstimo com sua própria empresa, Diplomata Industrial e Comercial LTDA, oque corresponde à prática de empréstimo vedado. A ação está em segredo dejustiça. É alvo de inquérito que apura crime contra o patrimônio público. É alvo deinquérito que apura crimes contra a ordem tributária.",
+      "dataAtualizacao": "17/02/2016"
+    },
+    {
+      "nome": "Aliel Machado",
+      "partido": "REDE",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Assis do Couto",
+      "partido": "PDT",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Christiane de Souza Yared",
+      "partido": "PR",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Diego Garcia",
+      "partido": "PHS",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Dilceu Sperafico",
+      "partido": "PP",
+      "estado": "PR",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de inquérito aberto com a Operação Lava Jato da Policia Federal, queinvestiga esquema de corrupção, formação de quadrilha e lavagem de dinheiro comrecursos desviados da Petrobras. Em delação premiada, o doleiro Alberto Youssefdisse que Dilceu teria sido um dos beneficiários da “cota” do PP, paga compropinas de empreiteiras. É investigado em inquéritos movidos pelo MinistérioPúblico Federal por crimes contra a administração pública e peculato. É alvo derepresentação por conduta vedada a agente público movida pelo MPE.",
+      "dataAtualizacao": "19/02/2016"
+    },
+    {
+      "nome": "Enio Verri",
+      "partido": "PT",
+      "estado": "PR",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenado em ação de improbidade administrativa. Entrou com embargos dedeclaração, mas a decisão foi mantida.",
+      "dataAtualizacao": "19/02/2016"
+    },
+    {
+      "nome": "Evandro Roman",
+      "partido": "PSD",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Fernando Francischini",
+      "partido": "SD",
+      "estado": "PR",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de ação movida pela Defensoria Pública do Paraná. É alvo de ação civil deimprobidade administrativa ajuizada pelo Ministério Público.",
+      "dataAtualizacao": "19/02/2016"
+    },
+    {
+      "nome": "Giacobo",
+      "partido": "PR",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Hermes Parcianello",
+      "partido": "PMDB",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "João Arruda",
+      "partido": "PMDB",
+      "estado": "PR",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenado por homicídio culposo em acidente de trânsito que matou duaspessoas. A Justiça transformou a pena de detenção em pagamento de indenizaçãoe trabalho à comunidade"
+    },
+    {
+      "nome": "Leandre",
+      "partido": "PV",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Leopoldo Meyer",
+      "partido": "PSB",
+      "estado": "PR",
+      "totalOcorrencias": "2",
+      "resumo": "Foi condenado a pagamento de multa devido à contratação de empresa sem prévialicitação, enquanto prefeito de São José dos Pinhais. Recorreu da decisão, que foimantida. Parlamentar recorre. Foi responsabilizado por conduta vedada a agentespúblicos por veiculação de propaganda institucional irregular. A Justiça determinouo pagamento de multa de R$ 15.960.",
+      "dataAtualizacao": "22/02/2016"
+    },
+    {
+      "nome": "Luciano Ducci",
+      "partido": "PSB",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Luiz Carlos Hauly",
+      "partido": "PSDB",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Luiz Nishimori",
+      "partido": "PR",
+      "estado": "PR",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito referente a crimes de estelionato majorado, formação dequadrilha e crimes contra a fé pública",
+      "dataAtualizacao": "22/02/2016"
+    },
+    {
+      "nome": "Marcelo Belinati",
+      "partido": "PP",
+      "estado": "PR",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito que apura suposto uso ilegal, na propaganda eleitoral, desímbolos, frases ou imagens, associadas ou semelhantes às empregadas porórgão de governo, empresa pública ou sociedade de economia mista, quando oinvestigado era candidato à prefeitura de Londrina (PR).",
+      "dataAtualizacao": "22/02/2016"
+    },
+    {
+      "nome": "Nelson Meurer",
+      "partido": "PP",
+      "estado": "PR",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquéritos abertos com a Operação Lava Jato da Policia Federal, queinvestigam esquema de corrupção, formação de quadrilha e lavagem de dinheirocom recursos desviados da Petrobras",
+      "dataAtualizacao": "23/02/2016"
+    },
+    {
+      "nome": "Nelson Padovani",
+      "partido": "PSDB",
+      "estado": "PR",
+      "totalOcorrencias": "1",
+      "resumo": "Teve rejeitadas as contas eleitorais referentes à candidatura de 2014. Oparlamentar recorre",
+      "dataAtualizacao": "17/03/2016"
+    },
+    {
+      "nome": "Osmar Serraglio",
+      "partido": "PMDB",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Paulo Martins",
+      "partido": "PSDB",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Ricardo Barros",
+      "partido": "PP",
+      "estado": "PR",
+      "totalOcorrencias": "3",
+      "resumo": "Foi condenado por fraude em venda de equipamentos da Prefeitura de Maringá,referente ao período que governou o município. Embora o negócio tenha sidofechado com o município de Luiziana, o comprador final foi um dos membros dacomissão avaliadora dos equipamentos. A condenação foi mantida em segundainstância. Recorreu ao STJ, mas a condenação foi mantida. Condenado emsegunda instância por danos causados aos cofres públicos em função de isençõestributárias ilegais que concedeu quando prefeito de Maringá. A Justiça determinou oressarcimento do erário. O parlamentar interpôs recurso, mas a decisão foimantida: STJ - Recurso especial nº 728702/2005. Chegou a recorrer ao STF, masteve o recurso negado. O parlamentar é investigado por corrupção passiva,peculato e fraude em licitação para contratação de serviços publicitários para aPrefeitura de Maringá em favor da empresa Meta Propaganda. O processo corresob segredo de justiça.",
+      "dataAtualizacao": "23/02/2016"
+    },
+    {
+      "nome": "Rubens Bueno",
+      "partido": "PPS",
+      "estado": "PR",
+      "totalOcorrencias": "1",
+      "resumo": "As contas do PPS de Carlópolis (PR) e de Chopinzinho (PR) relativas ao ano de2014 não foram prestadas, como exige a Justiça Eleitoral. Foi determinada asuspensão de repasses do Fundo Partidário, bem como a devolução de repassescujas contas não foram prestadas e a suspensão do registro do órgão regional dopartido, do qual o parlamentar é presidente",
+      "dataAtualizacao": "24/02/2016"
+    },
+    {
+      "nome": "Sandro Alex",
+      "partido": "PSD",
+      "estado": "PR",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Sergio Souza",
+      "partido": "PMDB",
+      "estado": "PR",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação civil de improbidade administrativa com dano ao erário, movida peloMinistério Público Estadual, referente a irregularidades e fraudes em licitação.",
+      "dataAtualizacao": "24/02/2016"
+    },
+    {
+      "nome": "Takayama",
+      "partido": "PSC",
+      "estado": "PR",
+      "totalOcorrencias": "2",
+      "resumo": "É réu em ação penal que investiga crimes contra a ordem tributária, estelionato epeculato. É acusado de desviar verbas públicas por meio de provimentosirregulares em cargos de comissões. Ação civil pública nº 0004448-42.2007.8.16.0004 - É réu em ação civil de improbidade administrativa movida peloMinistério Público Estadual e pelo Estado do Paraná.",
+      "dataAtualizacao": "24/02/2016"
+    },
+    {
+      "nome": "Toninho Wandscheer",
+      "partido": "PROS",
+      "estado": "PR",
+      "totalOcorrencias": "3",
+      "resumo": "Foi multado por conduta vedada a agente público pela prática de propagandainstitucional com dinheiro público. Parlamentar recorreu e multa foi reduzida:Recurso eleitoral. Recorreu em terceira instância e foi mantido o valor. É réu emações civis públicas por improbidade administrativa (dano ao erário) abertas com aOperação Sanguessuga da Polícia Federal, que desmontou esquema de desvio deverbas públicas da União. O ex-prefeito é acusado de irregularidades em convêniopara compra de ambulância para o município Fazenda Rio Grande. Foi condenadoà suspensão dos direitos políticos por cinco anos, ao pagamento de multa civilequivalente a 20 vezes o montante da atual remuneração do prefeito de FazendaRio Grande, e à proibição de contratar com o poder público ou receber benefíciosou incentivos fiscais ou creditícios, direta ou indiretamente, pelo prazo de três anos.É réu em ação civil pública por ato de improbidade administrativa movida pelomunicípio de Fazenda Rio Grande. O ex-prefeito é acusado de cometerirregularidades ao aprovar decreto de loteamento imobiliário que o beneficiariadireta ou indiretamente por ser sócio da empresa loteadora. O processo segue emsegredo de justiça.",
+      "dataAtualizacao": "24/02/2016"
+    },
+    {
+      "nome": "Zeca Dirceu",
+      "partido": "PT",
+      "estado": "PR",
+      "totalOcorrencias": "2",
+      "resumo": "É réu em ação por improbidade administrativa proposta pelo Ministério PúblicoFederal. Em primeira instância, foi absolvido.Entretanto, a apelação do MinistérioPúblico Federal foi provida no tribunal de segunda instância.O parlamentar recorreda decisão em terceira instância.Foi condenado duas vezes ao pagamento demulta por conhecimento prévio sobre propaganda irregular que utilizou o jornal e apágina eletrônica da Prefeitura Municipal de Cidade Gaúcha (PR) como meios dedivulgação e fomento à sua candidatura a deputado federal, valendo-se do bempúblico em favor particular.",
+      "dataAtualizacao": "24/02/2016"
+    },
+    {
+      "nome": "Carlos Marun",
+      "partido": "PMDB",
+      "estado": "MS",
+      "totalOcorrencias": "2",
+      "resumo": "Teve as contas relativas à campanha de 2002 rejeitadas pela Justiça Eleitoral deMato Grosso do Sul. O parlamentar recorreu, mas a decisão foi mantida. É réu emação civil de improbidade administrativa com dano ao erário.",
+      "dataAtualizacao": "03/03/2016"
+    },
+    {
+      "nome": "Dagoberto",
+      "partido": "PDT",
+      "estado": "MS",
+      "totalOcorrencias": "4",
+      "resumo": "Condenado por improbidade administrativa a multa civil e a ressarcir aos cofrespúblicos o montante gasto em contrato com a empresa AGS Segurança. Dagobertomove ação rescisória contra a sentença. Condenado por improbidadeadministrativa e sentenciado a ressarcir aos cofres públicos o dano causado pelouso de propaganda sobre a Lei Seca para promoção pessoal do deputado. Adecisão foi mantida em segunda instância. Dagoberto ainda entrou com agravo norecurso, no STJ, mas não foi provido. É alvo de ação penal por crimes contra osistema financeiro nacional, além de crimes da Lei de Licitações, peculato eformação de quadrilha.",
+      "dataAtualizacao": "03/03/2016"
+    },
+    {
+      "nome": "Elizeu Dionizio",
+      "partido": "PSDB",
+      "estado": "MS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Geraldo Resende",
+      "partido": "PSDB",
+      "estado": "MS",
+      "totalOcorrencias": "4",
+      "resumo": "O partido PPS teve desaprovada a prestação de contas referente ao ano de 2005quando era presidente do partido. Teve declarada irregular a execução financeiraem sua gestão enquanto secretário da Saúde. Teve declarada irregular a execuçãode contrato administrativo. É alvo de inquérito que apura corrupção passiva.",
+      "dataAtualizacao": "03/03/2016"
+    },
+    {
+      "nome": "Mandetta",
+      "partido": "DEM",
+      "estado": "MS",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de inquérito que apura crime da Lei de Licitações e tráfico de influência. Éalvo de ações civis de improbidade administrativa com dano ao erário na JustiçaFederal, ajuizadas pelo MPF.",
+      "dataAtualizacao": "03/03/2016"
+    },
+    {
+      "nome": "Tereza Cristina",
+      "partido": "PSB",
+      "estado": "MS",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Vander Loubet",
+      "partido": "PT",
+      "estado": "MS",
+      "totalOcorrencias": "6",
+      "resumo": "É alvo de inquérito aberto com a Operação Lava Jato da Policia Federal, queinvestiga esquema de corrupção e lavagem de dinheiro com recursos desviados daPetrobras. É alvo de três inquéritos que apuram crimes contra a ordem tributária eprevistos na Lei de Licitações. É réu em ação civil de improbidade administrativamovida pelo Ministério Público Estadual. Foi responsabilizado e multado porirregularidades em contratos quando secretário.",
+      "dataAtualizacao": "03/03/2016"
+    },
+    {
+      "nome": "Zeca do Pt",
+      "partido": "PT",
+      "estado": "MS",
+      "totalOcorrencias": "7",
+      "resumo": "É alvo de inquérito que apura crime de peculato.É alvo em diversas ações civispúblicas e de improbidade administrativa movidas pelo Ministério Público Estadual:",
+      "dataAtualizacao": "04/03/2016"
+    },
+    {
+      "nome": "Alfredo Nascimento",
+      "partido": "PR",
+      "estado": "AM",
+      "totalOcorrencias": "11",
+      "resumo": "Foi condenado com seu então secretário de Administração por improbidadeadministrativa praticada durante sua gestão como prefeito de Manaus: no exercíciode 1997 a 2003 foram contratadas mais de 14 mil pessoas para cargos nassecretarias municipais sem concurso público. A Justiça determinou a suspensãodos direitos políticos do parlamentar por cinco anos. O parlamentar recorre emsegunda instância. As contas referentes à aplicação de royalties da Petrobras --transferidos à prefeitura de Manaus no exercício de 1988 -- foram julgadasirregulares. Mediante recurso, as contas foram julgadas regulares, mas a multa foimantida. É alvo de inquérito que apura a prática de crimes contra a administraçãopública. É réu em ação penal por crime de falsidade ideológica. De acordo com adenúncia, o parlamentar inseriu informações falsas em prestação de contaseleitoral em 2006 para justificar despesas de R$ 15 mil com banners, minidoors ecartazes. É alvo de inquérito que apura crimes contra a administração pública,relacionados a irregularidades na contratação de empresas para execução deobras, durante o período em que o parlamentar foi ministro dos transportes. É alvode ações de improbidade administrativa movidas pelo Ministério Público. É alvo deações populares por ter aprovado ilegalmente, mediante decretos, aumento desalário para funcionários públicos municipais.",
+      "dataAtualizacao": "25/02/2016"
+    },
+    {
+      "nome": "Arthur Virgílio Bisneto",
+      "partido": "PSDB",
+      "estado": "AM",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Átila Lins",
+      "partido": "PSD",
+      "estado": "AM",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação civil pública por dano ao erário, movida pelo Ministério PúblicoEstadual.",
+      "dataAtualizacao": "25/02/2016"
+    },
+    {
+      "nome": "Conceição Sampaio",
+      "partido": "PP",
+      "estado": "AM",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação civil de improbidade administrativa com dano ao erário.",
+      "dataAtualizacao": "25/02/2016"
+    },
+    {
+      "nome": "Hissa Abrahão",
+      "partido": "PDT",
+      "estado": "AM",
+      "totalOcorrencias": "1",
+      "resumo": "É requerido em ação civil pública proposta pelo Ministério Público do Estado doAmazonas."
+    },
+    {
+      "nome": "Marcos Rotta",
+      "partido": "PMDB",
+      "estado": "AM",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação civil de improbidade administrativa com dano ao erário.",
+      "dataAtualizacao": "25/02/2016"
+    },
+    {
+      "nome": "Pauderney Avelino",
+      "partido": "DEM",
+      "estado": "AM",
+      "totalOcorrencias": "1",
+      "resumo": "A prestação de contas do partido foi declarada não prestada quando era presidenteregional do partido. Houve a suspensão do repasse de novas cotas do FundoPartidário pelo tempo em que durar a omissão.",
+      "dataAtualizacao": "25/02/2016"
+    },
+    {
+      "nome": "Silas Câmara",
+      "partido": "PRB",
+      "estado": "AM",
+      "totalOcorrencias": "4",
+      "resumo": "O PTB teve reprovada a prestação de contas referente ao exercício financeiro de2004, quando o parlamentar era ordenador de despesas do partido em nívelestadual.  É réu de ação civil por improbidade administrativa (dano ao erário)movida pelo Ministério Público Federal; o parlamentar recorre do processo. É réuem ação penal que investiga falsificação de documento público. É alvo de açãopenal que apura improbidade administrativa.",
+      "dataAtualizacao": "25/02/2016"
+    },
+    {
+      "nome": "Expedito Netto",
+      "partido": "PSD",
+      "estado": "RO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Lindomar Garçon",
+      "partido": "PRB",
+      "estado": "RO",
+      "totalOcorrencias": "5",
+      "resumo": "Foi condenado por improbidade administrativa por envolvimento na Máfia dasAmbulâncias, que consistia em desvio de verba federal do Sistema Único de Saúdepara compra de ambulâncias superfaturadas. Político era prefeito de Candeias doJamari na época. A Justiça determinou ressarcimento ao erário, perda dos direitospolíticos por 5 anos, além da perda dos cargos ou funções públicasdesempenhadas. O parlamentar recorre.  Foi condenado junto com o senador IvoCassol (PP) por abusos de poder político e econômico por utilização indevida deentidade de classe estudantil para participação em comício. A Justiça determinousua inelegibilidade para as eleições subsequentes ao pleito de 2010 por três anos.Recorre da decisão: TSE - Recurso nº 288787/2013. Político entrou com pedido deefeito suspensivo, que foi aceito. Foram reprovadas as contas do Partido Verde em2011, quando o parlamentar era responsável. É réu em ação penal referente acrimes eleitorais. É alvo de inquérito referente a crimes de captação ilícita de votose corrupção eleitoral.",
+      "dataAtualizacao": "04/03/2016"
+    },
+    {
+      "nome": "Lucio Mosquini",
+      "partido": "PMDB",
+      "estado": "RO",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito que apura a prática dos crimes de organização criminosa,falsidade ideológica e lavagem de dinheiro. A denúncia relatou indícios, apuradospela Operação Ludus, de superfaturamento, direcionamento, fraude e desvio derecursos públicos na licitação e execução das obras públicas, estimadas ao custode mais de R$ 22 milhões. O parlamentar chegou a ser preso preventivamente nocurso da operação, por determinação do TJ-RO. Contudo, o STJ concedeu ohabeas corpus aos acusados. Foi multado por não cumprir com determinações doprocesso de tomada de contas Nº 006.625/2008-5, referentes à construção de anelrodoviário pelo DER-RO, órgão que dirigia à época.",
+      "dataAtualizacao": "07/03/2016"
+    },
+    {
+      "nome": "Luiz Cláudio",
+      "partido": "PR",
+      "estado": "RO",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de inquérito referente a crime de corrupção passiva. Na ação cautelar nº3827/2015, o STF determinou a quebra do sigilo bancário do parlamentar. Nacondição de presidente do PR, figura como responsável em duas prestações decontas municipais do partido, cujas contas para o exercício de 2014 não foramprestadas.",
+      "dataAtualizacao": "07/03/2016"
+    },
+    {
+      "nome": "Marcos Rogério",
+      "partido": "DEM",
+      "estado": "RO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Mariana Carvalho",
+      "partido": "PSDB",
+      "estado": "RO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Marinha Raupp",
+      "partido": "PMDB",
+      "estado": "RO",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenada juntamente com seu marido Valdir Raupp de Matos, governador deRondônia à época, por improbidade administrativa. Ambos foram acusados depromoção pessoal pela confecção de cartilhas por intermédio da Fundação deAmparo ao Menor Carente e Ação Social de Rondônia. A parlamentar recorreu e aJustiça decidiu pela reforma parcial da decisão, mantendo as penas deressarcimento ao erário e multa civil. Recorreu da condenação, que foi mantida.",
+      "dataAtualizacao": "07/03/2016"
+    },
+    {
+      "nome": "Nilton Capixaba",
+      "partido": "PTB",
+      "estado": "RO",
+      "totalOcorrencias": "5",
+      "resumo": "Diretório estadual do PTB teve as contas reprovadas referente ao exercício de2009, quando o parlamentar era presidente. Partido recorreu, mas decisão foimantida. Acusado de envolvimento com a Máfia das Ambulâncias, é réu em açãopenal movida pelo Ministério Público Federal por corrupção passiva, lavagem dedinheiro e formação de quadrilha. É réu em ação penal movida pelo MinistérioPúblico Federal, referente a prática de crimes da Lei de Licitações. É alvo de açãode improbidade administrativa (violação aos princípios administrativos) movida peloMPF por envolvimento com a máfia das ambulâncias. Trata-se de ação civil deimprobidade administrativa relacionada à Máfia das Ambulâncias.",
+      "dataAtualizacao": "08/03/2016"
+    },
+    {
+      "nome": "Alexandre Baldy",
+      "partido": "PTN",
+      "estado": "GO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Célio Silveira",
+      "partido": "PSDB",
+      "estado": "GO",
+      "totalOcorrencias": "6",
+      "resumo": "É alvo de inquérito por crimes de responsabilidade.É réu em sete ações civispúblicas movidas por improbidade administrativa pelo Ministério Público do Estado",
+      "dataAtualizacao": "03/02/2016"
+    },
+    {
+      "nome": "Daniel Vilela",
+      "partido": "PMDB",
+      "estado": "GO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Delegado Waldir",
+      "partido": "PR",
+      "estado": "GO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Fábio Sousa",
+      "partido": "PSDB",
+      "estado": "GO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Flávia Morais",
+      "partido": "PDT",
+      "estado": "GO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Giuseppe Vecci",
+      "partido": "PSDB",
+      "estado": "GO",
+      "totalOcorrencias": "1",
+      "resumo": "O tribunal desaprovou as contas da campanha eleitoral de 2014 prestadas peloparlamentar. Após interposto recurso, o tribunal excluiu apenas a determinação dopagamento de multa. O parlamentar recorre da decisão que desaprovou suaprestação de contas",
+      "dataAtualizacao": "11/02/2016"
+    },
+    {
+      "nome": "Heuler Cruvinel",
+      "partido": "PSD",
+      "estado": "GO",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de representação proposta pelo Ministério Público Federal por abuso depoder e captação ilícita de sufrágio."
+    },
+    {
+      "nome": "João Campos",
+      "partido": "PRB",
+      "estado": "GO",
+      "totalOcorrencias": "1",
+      "resumo": "Foram rejeitadas suas contas da campanha eleitoral de 2014. Tanto o parlamentarquanto o Ministério Público Eleitoral recorreram da decisão. Somente o recurso doMPE foi provido, e a decisão foi reformada para incluir a devolução dos recursoseleitorais de origem desconhecida ao Tesouro Nacional."
+    },
+    {
+      "nome": "Jovair Arantes",
+      "partido": "PTB",
+      "estado": "GO",
+      "totalOcorrencias": "3",
+      "resumo": "Prestação de contas das eleições de 2006 foi rejeitada e o TSE manteve a decisão.Suas contas de campanha também foram reprovadas em 2012. Recorreu, mas adecisão foi mantida. É alvo de ação movida pelo MPF por improbidadeadministrativa.",
+      "dataAtualizacao": "11/02/2016"
+    },
+    {
+      "nome": "Lucas Vergilio",
+      "partido": "SD",
+      "estado": "GO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Magda Mofatto",
+      "partido": "PR",
+      "estado": "GO",
+      "totalOcorrencias": "8",
+      "resumo": "Teve o mandato de prefeita cassado em 2007 por captação de sufrágio e abusosde poder político e econômico nas eleições de 2004. É alvo de ações civis públicas,inclusive de improbidade administrativa.",
+      "dataAtualizacao": "11/02/2016"
+    },
+    {
+      "nome": "Marcos Abrão",
+      "partido": "PPS",
+      "estado": "GO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Pedro Chaves",
+      "partido": "PMDB",
+      "estado": "GO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Roberto Balestra",
+      "partido": "PP",
+      "estado": "GO",
+      "totalOcorrencias": "3",
+      "resumo": "Teve rejeitada prestação de contas referente às eleições de 2006. O parlamentarentrou com recurso, mas decisão foi mantida.  É alvo de inquérito aberto com aOperação Lava Jato da Policia Federal, que investiga esquema de corrupção,formação de quadrilha e lavagem de dinheiro com recursos desviados daPetrobras. É alvo de inquérito que envolve quebra de sigilo bancário, movido peloMinistério Público Federal. O processo tramita sob segredo de Justiça.",
+      "dataAtualizacao": "15/02/2016"
+    },
+    {
+      "nome": "Rubens Otoni",
+      "partido": "PT",
+      "estado": "GO",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito que apura lavagem de dinheiro.",
+      "dataAtualizacao": "15/02/2016"
+    },
+    {
+      "nome": "Thiago Peixoto",
+      "partido": "PSD",
+      "estado": "GO",
+      "totalOcorrencias": "1",
+      "resumo": "Teve rejeitada prestação de contas referente às eleições de 2006. O parlamentarteve negado recurso no TSE",
+      "dataAtualizacao": "06/10/2014"
+    },
+    {
+      "nome": "Alberto Fraga",
+      "partido": "DEM",
+      "estado": "DF",
+      "totalOcorrencias": "7",
+      "resumo": "Foi condenado por porte ilegal de arma de fogo. Justiça determinou pena de quatroanos de reclusão em regime aberto. Parlamentar recorreu, mas decisão foimantida. Teve reprovada a prestação de contas referente a sua campanha eleitoralao cargo de senador em 2010. Recorreu, mas a decisão foi mantida. É alvo deação civil de improbidade administrativa movida pelo Ministério Público Federal. Aação pede a devolução de pagamento irregular de trabalhadora doméstica queconstava como secretária parlamentar na folha de pagamento de seu gabinete. Éréu em ação penal por peculato e falsidade ideológica, movida pelo MinistérioPúblico Federal. É réu em ação penal por concussão (exigir vantagem indevida),movida pelo Ministério Público Federal. É alvo de inquérito referente a crime deconcussão. A denúncia foi recebida, por unanimidade. É alvo de dois inquéritos noSTF que investigam crimes da Lei de Licitações",
+      "dataAtualizacao": "04/08/2015"
+    },
+    {
+      "nome": "Augusto Carvalho",
+      "partido": "SD",
+      "estado": "DF",
+      "totalOcorrencias": "7",
+      "resumo": "Condenado por improbidade administrativa pela contratação sem licitação prévia daReal Sociedade Espanhola de Beneficência para a administração do Hospital SantaMaria. A Justiça determinou a perda da sua função pública, o pagamento da multacivil fixada em cem vezes o valor da remuneração e a suspensão dos direitospolíticos por oito anos.Teve rejeitada a prestação de contas referente às eleiçõesde 1998.É alvo de inquérito que apura crimes da Lei de Licitações e peculato.É alvode inquérito que apura crime de corrupção passiva.É réu em três ações civis deimprobidade administrativa.",
+      "dataAtualizacao": "06/08/2015"
+    },
+    {
+      "nome": "Erika Kokay",
+      "partido": "PT",
+      "estado": "DF",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de inquérito que apura corrupção ativa, formação de quadrilha e lavagem ouocultação de bens, direitos ou valores. É alvo de inquérito que apura crimes contraa ordem tributária. É alvo de investigação penal movida pelo Ministério PúblicoFederal.",
+      "dataAtualizacao": "15/07/2015"
+    },
+    {
+      "nome": "Izalci",
+      "partido": "PSDB",
+      "estado": "DF",
+      "totalOcorrencias": "3",
+      "resumo": "Teve rejeitada prestação de contas referente às eleições de 2006. Parlamentarrecorreu, mas decisão foi mantida. É réu em ação penal por crimes contra a fépública eleitoral e falsidade ideológica. É investigado por omissão de doação naprestação de contas de campanha eleitoral em 2006. É alvo de investigação queapura crime de peculato."
+    },
+    {
+      "nome": "Laerte Bessa",
+      "partido": "PR",
+      "estado": "DF",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação civil de improbidade administrativa (violação dos princípiosadministrativos) movida pelo Ministério Público Estadual. O parlamentar éinvestigado por irregularidades em concurso público para delegado da Polícia Civildo Distrito Federal",
+      "dataAtualizacao": "04/08/2015"
+    },
+    {
+      "nome": "Rogério Rosso",
+      "partido": "PSD",
+      "estado": "DF",
+      "totalOcorrencias": "1",
+      "resumo": "É indiciado por corrupção eleitoral.",
+      "dataAtualizacao": "30/03/2016"
+    },
+    {
+      "nome": "Ronaldo Fonseca",
+      "partido": "PROS",
+      "estado": "DF",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Rôney Nemer",
+      "partido": "PP",
+      "estado": "DF",
+      "totalOcorrencias": "9",
+      "resumo": "É alvo de três inquéritos que apuram crimes da Lei de Licitações. É réu em açãopenal por crimes de lavagem de dinheiro e corrupção passiva. É réu em ação penalpor crimes da Lei de Licitações. É réu em quatro ações civis públicas porimprobidade administrativa movidas pelo Ministério Público do Distrito Federal eTerritórios.",
+      "dataAtualizacao": "18/08/2015"
+    },
+    {
+      "nome": "Alan Rick",
+      "partido": "PRB",
+      "estado": "AC",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Angelim",
+      "partido": "PT",
+      "estado": "AC",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "César Messias",
+      "partido": "PSB",
+      "estado": "AC",
+      "totalOcorrencias": "3",
+      "resumo": "É réu em processo movido pelo Ministério Público Federal por crimes deresponsabilidade de funcionários públicos. É alvo de ação civil de improbidadeadministrativa (enriquecimento ilícito) movida pelo Município de Cruzeiro do Sul. Éalvo de duas ações civis de improbidade administrativa movidas pelo MinistérioPúblico Federal.",
+      "dataAtualizacao": "10/08/2015"
+    },
+    {
+      "nome": "Flaviano Melo",
+      "partido": "PMDB",
+      "estado": "AC",
+      "totalOcorrencias": "3",
+      "resumo": "É réu em ação penal movida pelo MPF por peculato e crimes contra o sistemafinanceiro nacional. É réu em ação civil de improbidade administrativa com dano aoerário e possível enriquecimento ilícito. Foi responsabilizado por omissão deprestação de contas referente a dinheiro recebido do Fundo Especial paraCalamidades Públicas. O parlamentar entrou com processo para anular a decisãodo TCU, mas a decisão foi mantida.",
+      "dataAtualizacao": "11/12/2015"
+    },
+    {
+      "nome": "Jéssica Sales",
+      "partido": "PMDB",
+      "estado": "AC",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Leo de Brito",
+      "partido": "PT",
+      "estado": "AC",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Rocha",
+      "partido": "PSDB",
+      "estado": "AC",
+      "totalOcorrencias": "2",
+      "resumo": "É réu em ação penal por liderar motim de militares. O processo, iniciado no Tribunalde Justiça do Acre, foi deslocado ao STF em virtude da diplomação do parlamentarcomo deputado federal. É réu em ação de reintegração de posse movida peloEstado do Acre, por se recusar a desocupar voluntariamente \"Vila Militar\",localizada em imóvel de propriedade do ente estatal.",
+      "dataAtualizacao": "11/08/2015"
+    },
+    {
+      "nome": "Sibá Machado",
+      "partido": "PT",
+      "estado": "AC",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Carlos Henrique Gaguim",
+      "partido": "PTN",
+      "estado": "TO",
+      "totalOcorrencias": "10",
+      "resumo": "Foi condenado à pena de inelegibilidade por 8 anos, a partir do pleito de 2010. Oparlamentar recorre. Foi condenado por abuso de poder e conduta vedada à agentepúblico.É réu em ações por improbidade administrativa movida pelo MPE.",
+      "dataAtualizacao": "27/10/2015"
+    },
+    {
+      "nome": "César Halum",
+      "partido": "PRB",
+      "estado": "TO",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de inquérito movido pelo Ministério Público Federal por peculato, falsidadeideológica e corrupção passiva. Foi condenado ao ressarcimento dos cofrespúblicos no montante de R$ 230.832,55 e ao pagamento de multa por má-gestãodos recursos financeiros da Assembleia Legislativa do Estado do Tocantins no anode 2006, quando era Presidente da Casa. Foi condenado ao pagamento de multapor dispensa de licitação em contratação e contrato de serviços irregular,considerados ilegais pelo tribunal por infringirem a Lei n° 8.666/93 e a ConstituiçãoFederal.",
+      "dataAtualizacao": "31/07/2015"
+    },
+    {
+      "nome": "Dulce Miranda",
+      "partido": "PMDB",
+      "estado": "TO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Irajá Abreu",
+      "partido": "PSD",
+      "estado": "TO",
+      "totalOcorrencias": "1",
+      "resumo": "Foi multado pelo IBAMA por crime contra o meio ambiente. A decisão foi mantidaem reexame"
+    },
+    {
+      "nome": "Josi Nunes",
+      "partido": "PMDB",
+      "estado": "TO",
+      "totalOcorrencias": "2",
+      "resumo": "Teve as contas da campanha para o cargo de deputada estadual nas eleições de2006 julgadas irregulares. É ré em ação civil pública. Também são réus na ação osex-deputados estaduais Raimundo Coimbra Junior, José Augusto Pugliesi,Sargento Aragão, Fábio Martins de Santana, o atual deputado estadual Eduardo doDertins (PPS), o ex-deputado federal Angelo Agnolin e o atual deputado federalCésar Halum (PRB). Além disso, ainda figuram como réus o prefeito de Arrais (TO)Cacildo Vasconcelos, o prefeito de Gurupi (TO) Laurez Moreira e o ex-vice-governador do Tocantins Paulo Sidnei Antunes, entre outros.",
+      "dataAtualizacao": "27/10/2015"
+    },
+    {
+      "nome": "Lázaro Botelho",
+      "partido": "PP",
+      "estado": "TO",
+      "totalOcorrencias": "3",
+      "resumo": "Foi condenado a pagamento de multa de R$ 25 mil por captação ilícita de votos.Teve reprovada a prestação de contas das eleições de 2014 para deputado federal.Parlamentar recorre.  É alvo de inquérito aberto com a Operação Lava Jato daPolicia Federal, que investiga esquema de corrupção, formação de quadrilha elavagem de dinheiro com recursos desviados da Petrobras.",
+      "dataAtualizacao": "30/03/2015"
+    },
+    {
+      "nome": "Professora Dorinha Seabra Rezende",
+      "partido": "DEM",
+      "estado": "TO",
+      "totalOcorrencias": "12",
+      "resumo": "Foi condenada por improbidade administrativa a suspensão dos seus direitospolíticos, ressarcimento integral do dano causado ao erário, proibição de contratarcom o poder público e de receber benefícios fiscais ou creditícios por cinco anos,além de multa civil de setenta mil reais. Durante o período em que foi secretáriaestadual de Educação e Cultura ocorreram irregularidades na aplicação de verbaspúblicas federais provenientes do Programa para Educação de Jovens e Adultos -PEJA do Ministério da Educação, causando prejuízo ao erário de mais de cem milreais. Parlamentar recorre. É ré em ação penal referente a crimes na Lei deLicitações, ajuizada pelo Ministério Público Federal. É ré em ações penais porpeculato. É investigada em inquéritos que apuram crimes na Lei de licitações e/oupeculato. Os TCE detectou irregularidades na gestão da secretaria de Educação eCultura e lhe aplicou multa.",
+      "dataAtualizacao": "20/07/2015"
+    },
+    {
+      "nome": "Vicentinho Júnior",
+      "partido": "PR",
+      "estado": "TO",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Adilton Sachetti",
+      "partido": "PSB",
+      "estado": "MT",
+      "totalOcorrencias": "9",
+      "resumo": "Foi condenado por contratações temporárias sem concurso público, quandoprefeito. Justiça determinou pagamento de multa civil. O parlamentar recorre emsegunda instância. O Tribunal constatou irregularidade em contratação temporáriasem considerar os requisitos exigidos no processo seletivo, todavia, houveprescrição do feito e processo foi arquivado sem punição. É réu em ação penal porcrimes de responsabilidade. De acordo com a denúncia, o parlamentar teriaempregado irregularmente repasses de um convênio firmado com o Estado doMato Grosso, a época em que era prefeito do município de Rondonópolis (MT).Éalvo de ações civis de improbidade administrativa e ações penais movidas peloMinistério Público Estadual. Com dano ao erário. A ação foi recebida, decretou-se aindisponibilidade de bens e houve quebra de sigilo bancário e fiscal. É réu em açãopenal referente a crimes de responsabilidade. Em virtude de sua condição dedeputado federal, a justiça decidiu pelo declínio de competência e o processo foiremetido ao STF.",
+      "dataAtualizacao": "10/08/2015"
+    },
+    {
+      "nome": "Carlos Bezerra",
+      "partido": "PMDB",
+      "estado": "MT",
+      "totalOcorrencias": "9",
+      "resumo": "Foi condenado por improbidade administrativa, juntamente com outrosadministradores públicos, pela dispensa fraudulenta de licitação a fim de obtervantagem indevida, durante a sua gestão como presidente do INSS. É réu em açãopenal movida pelo MPF por peculato e crimes previstos na lei de licitações. É alvode ações civis públicas, inclusive de improbidade administrativa. Responsabilizadopor irregularidades referentes à consignação do pagamento de empréstimos embenefícios previdenciários. Recorreu da decisão, que foi mantida. Responsabilizadopor irregularidades em contrato firmado entre o Instituto Nacional do Seguro Sociale a Fundação Universidade de Brasília. Teve reprovada prestação de contasreferente às eleições de 2010. A decisão foi mantida em instância superior. Foimantida a decisão que julgou irregular a prestação de contas referente à campanhaeleitoral de 1998.",
+      "dataAtualizacao": "30/07/2015"
+    },
+    {
+      "nome": "Fabio Garcia",
+      "partido": "PSB",
+      "estado": "MT",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Nilson Leitão",
+      "partido": "PSDB",
+      "estado": "MT",
+      "totalOcorrencias": "18",
+      "resumo": "Diretório estadual do PSDB teve as contas referente ao exercício de 2007reprovadas, quando o parlamentar era presidente. O partido recorreu, mas adecisão foi mantida. Foram reprovadas as contas referentes ao exercício de 2010do diretório regional do PSDB. O parlamentar era o presidente regional do partido,à época. O partido recorre.É alvo de inquérito que apura corrupção passiva,referente aos esquemas de corrupção entre a empreiteira Gautama eadministradores públicos no município de Sinop (MT), à época em que oparlamentar era prefeito. Em 2007, ele chegou a ser preso preventivamente naOperação Navalha da Polícia Federal, que investigava o mesmo caso. Entre outros.",
+      "dataAtualizacao": "01/04/2016"
+    },
+    {
+      "nome": "Professor Victório Galli",
+      "partido": "PSC",
+      "estado": "MT",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito policial que investiga homicídio culposo de trânsito. Em 2009, oparlamentar envolveu-se em um acidente de trânsito na BR-163, em que seu carrocolidiu com um caminhão, matando o motorista.",
+      "dataAtualizacao": "06/08/2015"
+    },
+    {
+      "nome": "Ságuas Moraes",
+      "partido": "PT",
+      "estado": "MT",
+      "totalOcorrencias": "9",
+      "resumo": "Foi desaprovada a prestação de contas anual de 2010 do diretório regional do PTno Mato Grosso, quando o parlamentar exercia o cargo de presidente regional dasigla. A Justiça Eleitoral determinou a suspensão de repasses do Fundo Partidáriopor seis meses. Foram rejeitadas suas contas de campanha, referentes às eleiçõesde 2014. Foram detectadas irregularidades em convênio firmado entre a Prefeiturade Paranatinga e a Secretaria de Estado de Educação, que era gerida, à época,pelo parlamentar. oram detectadas irregularidades em convênio firmado entre aPrefeitura Municipal de Nobres e a Secretaria de Estado de Educação, que eragerida, à época, pelo parlamentar. Multado por irregularidades em contrato firmadoentre a Construtora Planecon Ltda. e a Secretaria de Educação do MatoGrosso.Foram detectadas irregularidades em contrato firmado entre a empresaBrasília Serviços de Informática Ltda a Secretaria de Educação do Mato Grosso.Foi multado em representação formulada pela Secretaria de Controle Externo deObras e Serviços de Engenharia devido ao não atendimento de requisitos mínimosde salubridade, acessibilidade e segurança em escola estadual. O parlamentarinterpos recurso, mas a decisão foi mantida. Multado por irregularidades emconvênio da Secretaria de Educação com o município de Primavera do Leste.Multado por irregularidades em execução de obras em escola estadual de Tangaráda Serra.",
+      "dataAtualizacao": "31/07/2015"
+    },
+    {
+      "nome": "Tampinha",
+      "partido": "PSD",
+      "estado": "MT",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Valtenir Pereira",
+      "partido": "PMDB",
+      "estado": "MT",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito que apura crimes da Lei de Licitações. Foram desaprovaram ascontas relativas ao exercício financeiro do PSB nos anos de 2009 e 2010, quando oparlamentar presidia a regional do partido",
+      "dataAtualizacao": "28/03/2016"
+    },
+    {
+      "nome": "Alex Manente",
+      "partido": "PPS",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito que apura a prática de crimes eleitorais. É alvo de ação porimprobidade administrativa e dano ao erário movida pelo Ministério Público."
+    },
+    {
+      "nome": "Alexandre Leite",
+      "partido": "DEM",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Ana Perugini",
+      "partido": "PT",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Andres Sanchez",
+      "partido": "PT",
+      "estado": "SP",
+      "totalOcorrencias": "5",
+      "resumo": "Suas contas de campanha eleitoral referentes à candidatura de 2014 foramdesaprovadas. O parlamentar recorre da decisão. É alvo de inquérito que apuracrimes eleitorais, por declarações falsas em seu registro de candidatura eprestação de contas eleitoral, e crimes contra a ordem tributária, havendo asuspeita de sonegação de impostos por parte de empresas em que o parlamentar ésócio. O parlamentar e outros três dirigentes e ex-dirigentes do Corinthians sãoinvestigados por apropriação indébita previdenciária e sonegação de contribuiçãoprevidenciária.",
+      "dataAtualizacao": "29/10/2015"
+    },
+    {
+      "nome": "Antonio Bulhões",
+      "partido": "PRB",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito que apura crime de peculato",
+      "dataAtualizacao": "30/10/2015"
+    },
+    {
+      "nome": "Arlindo Chinaglia",
+      "partido": "PT",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação civil pública movida pelo Ministério Público Estadual. Processotambém envolve os deputados federais Baleia Rossi (PMDB-SP), Beto Mansur(PRB-SP), Eli Correa Filho (DEM-SP) e Paulo Teixeira (PT-SP).",
+      "dataAtualizacao": "30/10/2015"
+    },
+    {
+      "nome": "Arnaldo Faria de Sá",
+      "partido": "PTB",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Arnaldo Jardim",
+      "partido": "PPS",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação civil pública sobre meio ambiente movida pelo Ministério PúblicoEstadual. Processo também envolve os deputados paulistas Arlindo Chinaglia (PT-SP), Baleia Rossi (PMDB-SP), Beto Mansur (PRB-SP), Eli Correa Filho (DEM-SP),Paulo Teixeira (PT-SP) e Rodrigo Garcia (DEM-SP)",
+      "dataAtualizacao": "22/08/2014"
+    },
+    {
+      "nome": "Baleia Rossi",
+      "partido": "PMDB",
+      "estado": "SP",
+      "totalOcorrencias": "12",
+      "resumo": "Foi condenado em ação popular por improbidade administrativa à devolução devalores indevidamente recebidos por pagamentos ilegais. Recorreu da decisão, quefoi mantida. Foi condenado em ação popular a ressarcir o erário público devido aorecebimento de verbas indevidas durante a época em que foi vereador de RibeirãoPreto. Recorreu da decisão, que foi mantida. Foi condenado em ação popular aressarcir o erário público devido ao recebimento de verbas indevidas durante aépoca em que foi vereador de Ribeirão Preto. Recorre da decisão. Foi condenadoem ação popular a ressarcir o erário público devido ao recebimento ilegal devalores percebidos a tíulo de ajuda de custo. Recorreu da decisão, que foimantida.Foi condenado em ação civil pública movida pelo Ministério PúblicoEstadual a devolver aos cofres públicos municipais os gastos irregularesdispendidos com a utilização de telefonia celular.Teve reprovada a prestação decontas das eleições de 2014 para deputado federal."
+    },
+    {
+      "nome": "Beto Mansur",
+      "partido": "PRB",
+      "estado": "SP",
+      "totalOcorrencias": "47",
+      "resumo": "Foi condenado em primeira instância pelas condições de trabalho degradantes,análogas à de escravo, a que os trabalhadores empregados em suas fazendaseram submetidos.Teve que pagar indenização de R$ 200 mil por danos moraiscoletivos. Apresentou recursos, que foram negados. Foi condenado em ação civilpública por improbidade administrativa/violação aos princípios administrativos aoressarcimento ao erário e a pagamento de multa. A condenação foi mantida emdois julgamentos na segunda instância. Foi condenado a ressarcir os cofrespúblicos por contrato de fornecimento de cestas básicas firmado com dispensairregular de licitação pelo município de Santos. O STJ manteve a decisão, masreduziu o valor a ser indenizado pelo parlamentar.Foi condenado a pagamento deindenização por danos morais e materiais por omissão relativa à segurança dotrabalho, juntamente com o Partido Progressista (PP). O parlamentar recorre dadecisão. Teve reprovada a prestação de contas referente às eleições de 2010. Oparlamentar recorreu da decisão, que foi mantida. É alvo de representação movidapela Procuradoria Regional Eleitoral por captação ou gasto ilícito de recursosfinanceiros nas eleições de 2014. É réu em ação penal por trabalho escravo. É réuem ação penal movida pelo Ministério Público Federal por crimes deresponsabilidade cometidos quando prefeito.O TCE reprovou contas e apontouirregularidades em processos licitatórios.",
+      "dataAtualizacao": "12/11/2015"
+    },
+    {
+      "nome": "Bruna Furlan",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenada por improbidade administrativa a pagamento de multa civil eproibição de contratar com o poder público por três anos.A parlamentar recorre",
+      "dataAtualizacao": "30/10/2015"
+    },
+    {
+      "nome": "Bruno Covas",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Capitão Augusto",
+      "partido": "PR",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Carlos Sampaio",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "Mantida decisão que reprovou prestação de contas referente às eleições municipaisde Campinas de 2008. Teve reprovada a prestação de contas referente às eleiçõesde 1998.",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Carlos Zarattini",
+      "partido": "PT",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Celso Russomanno",
+      "partido": "PRB",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "Foi condenado por peculato pela indicação da gerente administrativa de suaempresa Night and Day para cargo em comissão no seu gabinete parlamentar. Oparlamentar recorre. Teve reprovada a prestação de contas da sua campanha paraas eleições de 2014 para deputado federal. O parlamentar recorre.",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Dr. Sinval Malheiros",
+      "partido": "PTN",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "Teve reprovada a prestação de contas das eleições de 2010 para deputado federal.Recorreu, mas o TSE manteve a decisão",
+      "dataAtualizacao": "04/11/2015"
+    },
+    {
+      "nome": "Duarte Nogueira",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-",
+      "dataAtualizacao": "14/04;2016"
+    },
+    {
+      "nome": "Edinho Araújo",
+      "partido": "PMDB",
+      "estado": "SP",
+      "totalOcorrencias": "6",
+      "resumo": "O TCE-SP julgou irregulares processos licitatórios e contratos firmados pelaprefeitura de São José do Rio Preto. O parlamentar recorreu e o Tribunal decidiupelo parcial provimento do recurso, mantendo, no entanto, a irregularidade dostermos aditivos. Condenado em segunda instância em ação civil de improbidadeadministrativa à suspensão dos direitos políticos por 5 anos e multado em duasvezes o dano causado ao erário. Recorreu ao STJ (e conseguiu a suspensãoliminar da condenação, até que a medida cautelar tenha uma decisão definitiva.Ainda recorre. É réu em ação civil pública de improbidade administrativa movidapelo Ministério Público Estadual.",
+      "dataAtualizacao": "16/10/2015"
+    },
+    {
+      "nome": "Eduardo Bolsonaro",
+      "partido": "PSC",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Eduardo Cury",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "15",
+      "resumo": "Foi mantida decisão que desaprovou a prestação de contas de sua campanhaeleitoral de 2004. O Tribunal de Contas Estadual detectou diversas irregularidadesdurante a sua gestão como prefeito de São José dos Campos. Foi multado porirregularidades em concorrência e contrato realizados durante a sua gestão comoprefeito de São José dos Campos. Foi multado por irregularidades em contrato degestão sob a sua responsabilidade como prefeito de São José dos Campos.Recorreu da decisão, que foi mantida. É alvo de ações civis de improbidadeadministrativa movidas pelo Ministério Público.",
+      "dataAtualizacao": "12/11/2015"
+    },
+    {
+      "nome": "Eli Corrêa Filho",
+      "partido": "DEM",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação civil pública movida pelo Ministério Público Estadual. Processotambém envolve os deputados federais Arlindo Chinaglia (PT-SP), Baleia Rossi(PMDB-SP), Beto Mansur (PRB-SP) e Paulo Teixeira (PT-SP).",
+      "dataAtualizacao": "04/11/2015"
+    },
+    {
+      "nome": "Evandro Gussi",
+      "partido": "PV",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Fausto Pinato",
+      "partido": "PP",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "Réu em processo penal por falso testemunho ou falsa perícia.",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Flavinho",
+      "partido": "PSB",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Floriano Pesaro",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "0"
+    },
+    {
+      "nome": "Gilberto Nascimento",
+      "partido": "PSC",
+      "estado": "SP",
+      "totalOcorrencias": "7",
+      "resumo": "É alvo de ações civis de improbidade administrativa por dano ao erário movidaspelo MPF por envolvimento no caso conhecido como Máfia das Ambulâncias.Nacondição de presidente do diretório estadual paulista do PSC, o parlamentar figuracomo parte em processos em cinco municípios nos quais a legenda não prestou ascontas anuais de 2014. A Justiça Eleitoral condenou os respectivos diretóriosmunicipais à suspensão do repasse de novas cotas do fundo partidário.",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Goulart",
+      "partido": "PSD",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "Foi multado por não apresentar documentos comprovando aplicação de dinheiropúblico recebido pela ONG da qual é presidente. Foi condenado por improbidadeadministrativa a pagamento de multa civil. O parlamentar, na condição de vereador,utilizou-se de verba pública para contratação de gráfica de propriedade de suamulher. Recorre da decisão.",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Guilherme Mussi",
+      "partido": "PP",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito movido pelo Ministério Público Eleitoral que apura crime eleitoralde falsificação de documentos. É alvo de inquérito por lesão corporal."
+    },
+    {
+      "nome": "Herculano Passos",
+      "partido": "PSD",
+      "estado": "SP",
+      "totalOcorrencias": "19",
+      "resumo": "Tem quatro condenações por improbidade administrativa. Ele recorre. É alvo deinquérito que apura crimes eleitorais."
+    },
+    {
+      "nome": "Ivan Valente",
+      "partido": "PSOL",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jefferson Campos",
+      "partido": "PSD",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de ações civis de improbidade administrativa por dano ao erário movidaspelo MPF por envolvimento com a máfia das ambulâncias. Ações tambémenvolvem o deputado federal Gilberto Nascimento (PSC-SP)."
+    },
+    {
+      "nome": "João Paulo Papa",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de investigação judicial eleitoral, referente às eleições de 2008 para o cargode prefeito do município de Santos."
+    },
+    {
+      "nome": "Jorge Tadeu Mudalen",
+      "partido": "DEM",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "José Mentor",
+      "partido": "PT",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito aberto com a Operação Lava Jato da Policia Federal, queinvestiga esquema de corrupção e lavagem de dinheiro com recursos desviados daPetrobras.",
+      "dataAtualizacao": "26/02/2015"
+    },
+    {
+      "nome": "Keiko Ota",
+      "partido": "PSB",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Luiz Lauro Filho",
+      "partido": "PSB",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Luiza Erundina",
+      "partido": "PSOL",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenada a ressarcir a prefeitura de São Paulo por ter usado recursos dogoverno para pagar anúncio em jornais em apoio a uma greve nacional. A decisãofoi mantida pelo STF - Recurso extraordinário n° 208114/1997.",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Major Olimpio",
+      "partido": "SD",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "Teve reprovada a prestação de contas referente às eleições de 2006. Recorreu,mas decisão foi mantida:",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Mara Gabrilli",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Marcelo Squassoni",
+      "partido": "PRB",
+      "estado": "SP",
+      "totalOcorrencias": "3",
+      "resumo": "Foi condenado por improbidade administrativa por uso da máquina pública parafavorecimento pessoal. Parlamentar recorre. É alvo deinquérito sobre crimes de peculato, corrupção ativa e passiva. alvo de ação civil deimprobidade administrativa com dano ao erário, movida pelo Ministério PúblicoEstadual",
+      "dataAtualizacao": "10/11/2015"
+    },
+    {
+      "nome": "Marcio Alvino",
+      "partido": "PR",
+      "estado": "SP",
+      "totalOcorrencias": "5",
+      "resumo": "Foi multado por irregularidades na licitação e no contrato celebrado pela Prefeiturade Guararema, quando o parlamentar foi prefeito. Foi multado por irregularidadesna contratação da empresa Cedro Participações e Investimentos Ltda., quandoprefeito. É reu em outra ação civil pública referente a crimes contra o meioambiente, na condição de representante do município de Guararema, do qual foiprefeito. É alvo de inquérito referente a crimes da Lei de Licitações.",
+      "dataAtualizacao": "26/10/2015"
+    },
+    {
+      "nome": "Miguel Haddad",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "6",
+      "resumo": "Foi condenado em ação popular a ressarcir os cofres públicos municipais emdecorrência de contrato firmado ilegalmente e sem licitação. O parlamentarrecorreu, mas a decisão foi mantida. Também recorreu na terceira instãncia. Foimultado por irregulares em dispensa de licitação e em contrato celebrado paraprestação de serviços de transporte e saneamento municipal de Jundiaí referenteao período em que era prefeito. O deputado, ex-prefeito de Jundiaí, foi multado porirregularidades em contratos celebrados sem licitação e com indícios defracionamento de despesas.",
+      "dataAtualizacao": "10/11/2015"
+    },
+    {
+      "nome": "Miguel Lombardi",
+      "partido": "PR",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "Teve reprovada a prestação de contas referente às eleições de 2004. Oparlamentar recorreu da decisão, que foi mantida",
+      "dataAtualizacao": "09/11/2015"
+    },
+    {
+      "nome": "Milton Monti",
+      "partido": "PR",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Missionário José Olimpio",
+      "partido": "DEM",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito aberto com a Operação Lava Jato da Policia Federal, queinvestiga esquema de formação de quadrilha para prática de corrupção e lavagemde dinheiro com recursos desviados da Petrobras.",
+      "dataAtualizacao": "05/11/2015"
+    },
+    {
+      "nome": "Nelson Marquezelli",
+      "partido": "PTB",
+      "estado": "SP",
+      "totalOcorrencias": "3",
+      "resumo": "Teve reprovada prestação de contas referente às eleições de 2010. Recorreu dadecisão, que foi mantida. É alvo de ação civil pública por dano ambiental movidapelo Ministério Público Estadual. Teve decretada a indisponibilidade de bens e obloqueio eletrônico de ativos financeiros.É alvo de inquérito penal ajuizado peloMPF.",
+      "dataAtualizacao": "29/10/2015"
+    },
+    {
+      "nome": "Nilto Tatto",
+      "partido": "PT",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Orlando Silva",
+      "partido": "PCdoB",
+      "estado": "SP",
+      "totalOcorrencias": "4",
+      "resumo": "As contas de 2004 da Secretaria Executiva do Ministério dos Esportes, deresponsabilidade do parlamentar, foram julgadas irregulares por falhas emconvênios celebrados. Foi condenado a pagar multa de R$ 5 mil. TRE-SP: Suascontas de campanha eleitoral de 2014 a deputado federal foram desaprovadas.Nacondição de presidente do diretório estadual paulista do PCdoB, o parlamentarfigura como parte em processos em dois municípios nos quais as contas de 2014não foram prestadas. Foi determinada a suspensão do repasse de novas cotas dofundo partidário municipal.",
+      "dataAtualizacao": "09/11/2015"
+    },
+    {
+      "nome": "Paulo Freire",
+      "partido": "PR",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Paulo Maluf",
+      "partido": "PP",
+      "estado": "SP",
+      "totalOcorrencias": "12",
+      "resumo": "Condenado por Improbidade administrativa, crimes contra o sistema finaneiro,falsidade ideológica, entre outros",
+      "dataAtualizacao": "11/11/2015"
+    },
+    {
+      "nome": "Paulo Pereira da Silva",
+      "partido": "SD",
+      "estado": "SP",
+      "totalOcorrencias": "10",
+      "resumo": "Condenado por improbidade administrativa por ter obtido dinheiro do Banco daTerra + Condenado por improbidade administrativa por irregularidades no uso derecursos do Fundo de Amparo ao Trabalhador + Condenado a restituir aos cofrespúblicos os danos causados por uso de verba de convênio para promoção pessoal+  É réu em ação penal sobre crime contra o sistema financeiro, lavagem dedinheiro e formação de quadrilha. De acordo com a denúncia feita pelo MinistérioPúblico +  É alvo de inquérito que apura peculato, por desvio de recursos públicosdestinado à aquisição de uma fazenda + É alvo de inquérito que apura atos decorrupção passiva, consistente na venda de cartas sindicais, indispensáveis aoregistro de sindicatos + É alvo em ação civil pública movida pelo MPF por dano aoerário por irregularidades em convênios e contratos celebrados entre a ForçaSindical e Secretaria de Políticas Públicas de Emprego do Ministério do Trabalho",
+      "dataAtualizacao": "18/03/2016"
+    },
+    {
+      "nome": "Paulo Teixeira",
+      "partido": "PT",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "Teve as contas eleitorais de 2010 desaprovadas. Alvo de ação civil pública movidapelo Ministério Público Estadual",
+      "dataAtualizacao": "03/11/2015"
+    },
+    {
+      "nome": "Pr. Marco Feliciano",
+      "partido": "PSC",
+      "estado": "SP",
+      "totalOcorrencias": "3",
+      "resumo": "Teve desaprovada a prestação de contas da eleição de 2014 para deputadofederal. Tribunal considerou que houve omissão de despesas. +  É alvo de inquéritoque apura irregularidades na contratação de cinco pastores da igreja Catedral doAvivamento, fundada pelo parlamentar. + É alvo de ação civil pública com pedidode indenização por danos morais difusos. A ação foi ajuizada pela ONG AçãoBrotar pela Cidadania e Diversidade Sexual em virtude das manifestações doparlamentar acerca da parada do Orgulho LGBT e de Viviany Beleboni - ativistatransexual que realizou uma performance no evento -, que teriam incorrido emcrimes de difamação, injúria e incitação ao ódio à população LGBT.",
+      "dataAtualizacao": "29/10/2015"
+    },
+    {
+      "nome": "Renata Abreu",
+      "partido": "PTN",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "O diretório municipal do PTN em Presidente Prudente (SP) não prestou suascontas anuais e o diretório estadual, de qual Renata Abreu é vice-presidente, nãorespondeu à solicitação da Justiça Eleitoral de enviar a prestação de contas. A cotado fundo partidário municipal foi suspenso. É investigada, juntamente com seuassessor José Milhim, por compra de votos nas eleições de 2014.",
+      "dataAtualizacao": "27/02/2015"
+    },
+    {
+      "nome": "Ricardo Izar",
+      "partido": "PP",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "Teve reprovadas as contas de campanha referentes às eleições de 2014. RicardoIzar entrou com os embargos de declaração, mas a decisão foi mantida. Tambémentrou com recurso na decisão, que foi negado. O parlamentar ainda recorre. Oparlamentar entrou com o TSE - Agravo de instrumento contra decisão queinadmitiu o recurso especial, mas ela foi mantida.",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Ricardo Tripoli",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Roberto Alves",
+      "partido": "PRB",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "Teve reprovada a prestação de contas das eleições de 2014 para deputado federal.O parlamentar recorreu em 3ª instância, mas a decisão foi mantida. É investigadopor estelionato. O parlamentar e os demais investigados teriam utilizado notasfiscais frias, em nome de empresa jornalística inativa, para justificar o recebimentode verbas indenizatórias da Câmara dos Deputados.",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Roberto de Lucena",
+      "partido": "PV",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-",
+      "dataAtualizacao": "14/04/2016"
+    },
+    {
+      "nome": "Rodrigo Garcia",
+      "partido": "DEM",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação civil pública sobre meio ambiente movida pelo Ministério PúblicoEstadual. Processo também envolve os deputados paulistas Arlindo Chinaglia (PT-SP), Baleia Rossi (PMDB-SP), Beto Mansur (PRB-SP), Eli Correa Filho (DEM-SP),Paulo Teixeira (PT-SP) e Arnaldo Jardim (PPS-SP).",
+      "dataAtualizacao": "27/02/2015"
+    },
+    {
+      "nome": "Samuel Moreira",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "0"
+    },
+    {
+      "nome": "Sérgio Reis",
+      "partido": "PRB",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "Teve desaprovada a prestação de contas das eleições de 2014 para deputadofederal. O parlamentar recorre",
+      "dataAtualizacao": "03/11/2015"
+    },
+    {
+      "nome": "Silvio Torres",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "O parlamentar teve reprovada as contas referentes às eleições de 2002. Elerecorreu da decisão no próprio TRE, mas ela foi mantida. O parlamentar tevereprovada as contas referentes às eleições de 2006. Ele recorreu da decisão, quefoi mantida. O parlamentar entrou com um agravo no STF, que foi negado",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Tiririca",
+      "partido": "PR",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Valmir Prascidelli",
+      "partido": "PT",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "Foi multado pelo TCU por irregularidades, nas contas referentes ao ano de 2005,em processo de licitação quando era presidente do CEAGESP. O parlamentarrecorreu, mas a decisão foi mantida. Foi julgado irregular convênio assinado entre aPrefeitura de Osasco e a entidade Empreendedores e Defensores do MeioAmbiente e da Cidadania, quando o parlamentar exerceu o cargo de secretário deEsporte do município.",
+      "dataAtualizacao": "09/11/2015"
+    },
+    {
+      "nome": "Vanderlei Macris",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "1",
+      "resumo": "Teve reprovada a prestação de contas das eleições de 2014 para deputado federal.O Tribunal determinou o recolhimento de R$ 16 mil ao erário e de R$ 30 mil àdireção estadual do PSDB. O parlamentar recorreu, mas a decisão foi mantida",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Vicente Candido",
+      "partido": "PT",
+      "estado": "SP",
+      "totalOcorrencias": "2",
+      "resumo": "Procuradora Regional Eleitoral de São Paulo questiona prestação de contas de suacampanha para as eleições de 2002 a deputado estadual. O parlamentar recorreu,mas a decisão foimantida. É investigado por corrupção ativa e advocaciaadministrativa.",
+      "dataAtualizacao": "06/11/2015"
+    },
+    {
+      "nome": "Vicentinho",
+      "partido": "PT",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Vinicius Carvalho",
+      "partido": "PRB",
+      "estado": "SP",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Vitor Lippi",
+      "partido": "PSDB",
+      "estado": "SP",
+      "totalOcorrencias": "11",
+      "resumo": "O TCE-SP apontou irregularidades em licitações e contratos celebrados pelaPrefeitura de Sorocaba, quando o parlamentar foi prefeito, aplicando-lhe multa. Éalvo de ações civis públicas por improbidade administrativa movidas pelo MinistérioPúblico Estadual. Referente a irregularidades na contratação de empresa semlicitação para recapeamento de vias. A denúncia foi recebida e o processoencontra-se em tramitação prioritária.",
+      "dataAtualizacao": "26/10/2015"
+    },
+    {
+      "nome": "Alberto Filho",
+      "partido": "PMDB",
+      "estado": "MA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Aluisio Mendes",
+      "partido": "PTN",
+      "estado": "MA",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação por improbidade administrativa movida pelo Ministério Público doEstado do Maranhão.",
+      "dataAtualizacao": "09/03/2016"
+    },
+    {
+      "nome": "André Fufuca",
+      "partido": "PP",
+      "estado": "MA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Cleber Verde",
+      "partido": "PRB",
+      "estado": "MA",
+      "totalOcorrencias": "1",
+      "resumo": "Figura como responsável na prestação de contas do diretório municipal do PRB emCarutapera (MA). As contas foram consideradas não prestadas.",
+      "dataAtualizacao": "11/03/2016"
+    },
+    {
+      "nome": "Eliziane Gama",
+      "partido": "PPS",
+      "estado": "MA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Hildo Rocha",
+      "partido": "PMDB",
+      "estado": "MA",
+      "totalOcorrencias": "2",
+      "resumo": "O parlamentar figura como réu em ações civis públicas por improbidadeadministrativa movidas pelo Ministério Público Estadual, por ter contratadofuncionário sem concurso público quando prefeito de Cantanhede (MA)"
+    },
+    {
+      "nome": "João Castelo",
+      "partido": "PSDB",
+      "estado": "MA",
+      "totalOcorrencias": "11",
+      "resumo": "Foi condenado na primeira instância por utilização de renda pública em proveitopróprio e uso indevido das finanças do município de São Luis. O então prefeito nãoenviou ordem de pagamento dos salários dos servidores municipais no mês dedezembro de 2012 e determinou o uso da reserva financeira do município parapagamento de fornecedores. Justiça determinou uma pena de 2 anos de prisão,que foi revertida em prestação de serviços comunitários. O parlamentar recorre dadecisão da pena. Foi condenado ao pagamento de multa de R$ 5.000,00, porconduta vedada a agente público referente a propaganda eleitoral antecipada. Foicondenado em ação civil pública por dano ambiental em imóvel de sua propriedadelocalizado em reserva legal a recuperar a área degradada e pagar indenização aotesouro pela área não passível de recuperação. O parlamentar recorre da decisão.É alvo de inquéritos no STF: por crimes da Lei de Licitações, contra o meioambiente. É alvo em ações civis públicas e de improbidade administrativa movidaspelo MPE e pelo Município de São Luís (MA)"
+    },
+    {
+      "nome": "João Marcelo Souza",
+      "partido": "PMDB",
+      "estado": "MA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "José Reinaldo",
+      "partido": "PSB",
+      "estado": "MA",
+      "totalOcorrencias": "3",
+      "resumo": "É réu em ação penal por associação criminosa, peculato e corrupção passiva.Trata-se de um dos processos originados pela Operação Navalha. De acordo coma denúncia, o então governador celebrou contratos com o Departamento Nacionalde Infraestrutura de Transportes (DNIT) para execução de obras que já haviam sidorealizadas.  É réu em ação por improbidade administrativa com enriquecimentoilícito. De acordo com a denúncia, o parlamentar reformou um apartamento comgastos incompatíveis com sua renda e sem que houvesse comprovação da origemdos recursos. Foi responsabilizado por irregularidades na aplicação de recursospúblicos, constatadas em tomada de contas especial, referentes a sua gestãoenquanto Ministro dos Transportes.",
+      "dataAtualizacao": "15/03/2016"
+    },
+    {
+      "nome": "Junior Marreca",
+      "partido": "PEN",
+      "estado": "MA",
+      "totalOcorrencias": "12",
+      "resumo": "É réu em ação penal por emprego irregular de verbas ou rendas públicas / multadopor falha de publicidade na licitação do Programa Nacional de Reestruturação eAquisição de Equipamentos para a Rede Escolar Pública de Educação Infantil(Proinfância) do governo federal para a construção de creche-escola no municípioItapecuru-Mirim(MA), quando prefeito.",
+      "dataAtualizacao": "15/03/2016"
+    },
+    {
+      "nome": "Juscelino Filho",
+      "partido": "DEM",
+      "estado": "MA",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação de impugnação de mandato eletivo, ajuizada pelo Ministério PúblicoEleitoral. O processo corre em segredo de justiça.",
+      "dataAtualizacao": "16/03/2016"
+    },
+    {
+      "nome": "Pedro Fernandes",
+      "partido": "PTB",
+      "estado": "MA",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito movido pelo Ministério Público Federal por peculato e abuso depoder. Apura-se a nomeação de servidores da Câmara, indicados pelo deputado,que não exerceriam nenhuma atribuição e apenas repassariam valores obtidos aofilho do parlamentar. O STF decidiu pela quebra do sigilo bancário do parlamentar.",
+      "dataAtualizacao": "16/03/2016"
+    },
+    {
+      "nome": "Rubens Pereira Júnior",
+      "partido": "PCdoB",
+      "estado": "MA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Sarney Filho",
+      "partido": "PV",
+      "estado": "MA",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenado a pagamento de multa em representação movida pelo MinistérioPúblico Eleitoral por prática de conduta vedada. Parlamentar recorreu e a decisãofoi mantida.",
+      "dataAtualizacao": "16/03/2016"
+    },
+    {
+      "nome": "Victor Mendes",
+      "partido": "PSD",
+      "estado": "MA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Waldir Maranhão",
+      "partido": "PP",
+      "estado": "MA",
+      "totalOcorrencias": "6",
+      "resumo": "Teve rejeitada prestação de contas referente às eleições de 2010 para deputadofederal por recebimento de recurso de fonte não identificada. Recorreu da decisão,que foi mantida. É alvo de inquérito aberto com a Operação Lava Jato da PoliciaFederal, que investiga esquema de corrupção, formação de quadrilha e lavagem dedinheiro com recursos desviados da Petrobras. É alvo de inquéritos que apuramcrime de lavagem de dinheiro no esquema investigado pela Operação Miqueias daPolicia Federal, que consistia em desvio de recursos de fundos de pensão elavagem de dinheiro. Também é investigado o deputado federal Fernando Torres(PSD-BA). É alvo de ação civil pública movida pelo Ministério Público Estadual. Éalvo de representação movida pelo Ministério Público Eleitoral por captação ilícitade recursos. Processo corre sob segredo de justiça.",
+      "dataAtualizacao": "16/03/2016"
+    },
+    {
+      "nome": "Weverton Rocha",
+      "partido": "PDT",
+      "estado": "MA",
+      "totalOcorrencias": "7",
+      "resumo": "É réu em ação penal movida pelo MP por crimes previstos na Lei de Licitações, éinvestigado em inquérito que apura crime na Lei de Licitações, é alvo de inquéritoreferente a crimes de peculato, corrupção passiva e ativa, é réu em 3 ações civis deimprobidade administrativa movidas pelo MP:",
+      "dataAtualizacao": "17/03/2016"
+    },
+    {
+      "nome": "Zé Carlos",
+      "partido": "PT",
+      "estado": "MA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Adail Carneiro",
+      "partido": "PP",
+      "estado": "CE",
+      "totalOcorrencias": "1",
+      "resumo": "Crime de lavagem de dinheiro",
+      "dataAtualizacao": "15/04/2016"
+    },
+    {
+      "nome": "Aníbal Gomes",
+      "partido": "PMDB",
+      "estado": "CE",
+      "totalOcorrencias": "4",
+      "resumo": "Teve rejeitada a prestação de contas referente às eleições de 2002. É alvo derepresentação por compra de votos nas eleições de 2014 movida pelo procuradorregional eleitoral. De acordo com a denúncia, o parlamentar estaria envolvido nadistribuição de vale-combustível para eleitores do município de Bela Cruz (CE). Éalvo de inquéritos abertos com a Operação Lava Jato da Policia Federal, queinvestigam esquema de corrupção, formação de quadrilha e lavagem de dinheirocom recursos desviados da Petrobras. É investigado em inquéritos movidos peloMinistério Público Federal por peculato. Também é investigado o deputado federalDilceu Sperafico (PP-PR).",
+      "dataAtualizacao": "21/12/2015"
+    },
+    {
+      "nome": "Ariosto Holanda",
+      "partido": "PDT",
+      "estado": "CE",
+      "totalOcorrencias": "2",
+      "resumo": "Foi multado por irregularidades detectadas na prestação de contas da Secretaria deIndústria e Comércio referente ao exercício de 1989. É alvo de inquérito civil doMinistério Público Federal, que apura irregularidades na emissão de notas fiscaisem nome do deputado, nos anos de 2012 a 2014 pela empresa Eclipse Rent a Car,que teriam sido usadas para reembolso ao parlamentar na Câmara dos Deputados.",
+      "dataAtualizacao": "21/12/2015"
+    },
+    {
+      "nome": "Arnon Bezerra",
+      "partido": "PTB",
+      "estado": "CE",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenado, na condição de presidente do Diretório Estadual do PTB-CE, juntoa outros dirigentes, a ressarcir o erário e ao pagamento de multa por aplicaçãoirregular dos recursos do Fundo Partidário do diretório regional do PTB no Estadodo Ceará em 2003.",
+      "dataAtualizacao": "21/12/2015"
+    },
+    {
+      "nome": "Cabo Sabino",
+      "partido": "PR",
+      "estado": "CE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Chico Lopes",
+      "partido": "PCdoB",
+      "estado": "CE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Danilo Forte",
+      "partido": "PSB",
+      "estado": "CE",
+      "totalOcorrencias": "5",
+      "resumo": "É alvo de inquérito que investiga violações de direito e processo eleitoral. É alvo deações de improbidade administrativa movidas pelo Ministério Público Federal",
+      "dataAtualizacao": "11/12/2015"
+    },
+    {
+      "nome": "Domingos Neto",
+      "partido": "PSD",
+      "estado": "CE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Genecias Noronha",
+      "partido": "SD",
+      "estado": "CE",
+      "totalOcorrencias": "2",
+      "resumo": "Condenado em segunda instância por improbidade administrativa com dano aoerário. O parlamentar realizou uma doação irregular de imóvel público para servir ainteresses privados. A Justiça o condenou ao pagamento de multa no valor doimóvel doado. É alvo de inquérito que apura captação ilícita de votos.",
+      "dataAtualizacao": "21/12/2015"
+    },
+    {
+      "nome": "Gorete Pereira",
+      "partido": "PR",
+      "estado": "CE",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito referente a irregularidades constatadas em contratos celebradosentre a Associação Beneficente Cearense de Reabilitação, sob sua direção, e oMinistério da Saúde. É ré em ação de improbidade administrativa movida peloMinistério Público Federal. A ação refere-se a atos de improbidade em convênioscelebrados entre o Ministério da Saúde e a Associação Beneficente Cearense deReabilitação, durante a gestão da parlamentar.",
+      "dataAtualizacao": "21/12/2015"
+    },
+    {
+      "nome": "José Airton Cirilo",
+      "partido": "PT",
+      "estado": "CE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "José Guimarães",
+      "partido": "PT",
+      "estado": "CE",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de representação por conduta vedada a agente público movida peloMinistério Público.",
+      "dataAtualizacao": "09/12/2015"
+    },
+    {
+      "nome": "Leônidas Cristino",
+      "partido": "PDT",
+      "estado": "CE",
+      "totalOcorrencias": "1",
+      "resumo": "Responde a denúncias de irregularidades na aplicação de recursos do FUNDEBreferentes ao ano de 2010 e em repasses não realizados de contribuiçõesprevidenciárias para o INSS",
+      "dataAtualizacao": "21/12/2015"
+    },
+    {
+      "nome": "Luizianne Lins",
+      "partido": "PT",
+      "estado": "CE",
+      "totalOcorrencias": "6",
+      "resumo": "É ré em ação penal por fraude. É alvo de ação penal por crimes deresponsabilidade.É alvo de ações civis de improbidade administrativa.",
+      "dataAtualizacao": "22/12/2015"
+    },
+    {
+      "nome": "Macedo",
+      "partido": "PP",
+      "estado": "CE",
+      "totalOcorrencias": "3",
+      "resumo": "Foi autuado pelo MPF por crimes contra o meio ambiente por construção de imóvelem área de preservação permanente. Em conciliação, aceitou pagar indenizaçãoao fundo de preservação ambiental local em 20% do valor venal do imóvel, bemcomo ressarcir o MPF por perícias realizadas e realizar a recuperação da áreadegradada. É alvo de ação civil pública por dano ambiental. É réu em ação penalreferente a crimes contra a flora e o meio ambiente. A denúncia foi recebida.",
+      "dataAtualizacao": "22/12/2015"
+    },
+    {
+      "nome": "Moroni Torgan",
+      "partido": "DEM",
+      "estado": "CE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Moses Rodrigues",
+      "partido": "PMDB",
+      "estado": "CE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Odorico Monteiro",
+      "partido": "PROS",
+      "estado": "CE",
+      "totalOcorrencias": "3",
+      "resumo": "O TCM-CE apontou irregularidades nas prestações de contas do Fundo Municipalde Saúde, referentes ao período em que o parlamentar ocupava os cargos desecretário municipal de Saúde de Quixadá e Fortaleza",
+      "dataAtualizacao": "22/12/2015"
+    },
+    {
+      "nome": "Raimundo Gomes de Matos",
+      "partido": "PSDB",
+      "estado": "CE",
+      "totalOcorrencias": "1",
+      "resumo": "Foi responsabilizado e multado por irregularidades na prestação de contas anual dasecretaria do Trabalho e Ação Social, referente ao período em que era secretárioda pasta",
+      "dataAtualizacao": "07/07/2015"
+    },
+    {
+      "nome": "Ronaldo Martins",
+      "partido": "PRB",
+      "estado": "CE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Vicente Arruda",
+      "partido": "PDT",
+      "estado": "CE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Vitor Valim",
+      "partido": "PMDB",
+      "estado": "CE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Alessandro Molon",
+      "partido": "REDE",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Alexandre Serfiotis",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Alexandre Valle",
+      "partido": "PR",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Altineu Côrtes",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "2",
+      "resumo": "Foi condenado por improbidade administrativa pela dispensa irregular de licitaçãona contratação do Instituto de Professores Públicos e Particulares para organizarconcurso público. A Justiça determinou perda da função pública e suspensão dosdireitos políticos por oito anos. O parlamentar recorre. É réu em ação civil deimprobidade administrativa por utilização do programa estadual Jovens pela Pazpara fins partidários.",
+      "dataAtualizacao": "26/11/2015"
+    },
+    {
+      "nome": "Arolde de Oliveira",
+      "partido": "PSC",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-",
+      "dataAtualizacao": "13/04/2016"
+    },
+    {
+      "nome": "Aureo",
+      "partido": "SD",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Benedita da Silva",
+      "partido": "PT",
+      "estado": "RJ",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação por ato lesivo ao patrimônio artístico, estético, histórico ou turístico."
+    },
+    {
+      "nome": "Cabo Daciolo",
+      "partido": "PTdoB",
+      "estado": "RJ",
+      "totalOcorrencias": "2",
+      "resumo": "É réu em ação penal por crimes contra a segurança nacional ocorridos durante agreve da Polícia Militar de Salvador (BA) em 2012. É réu em ação penal porformação de quadrilha por participação na greve da Polícia Militar de Salvador (BA)em 2012.",
+      "dataAtualizacao": "25/11/2015"
+    },
+    {
+      "nome": "Celso Pansera",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação civil de improbidade administrativa (violação aos princípiosadministrativos) movida pelo Ministério Público Estadual.",
+      "dataAtualizacao": "14/04/2016"
+    },
+    {
+      "nome": "Chico Alencar",
+      "partido": "PSOL",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Chico D'angelo",
+      "partido": "PT",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Clarissa Garotinho",
+      "partido": "PR",
+      "estado": "RJ",
+      "totalOcorrencias": "3",
+      "resumo": "É investigada por abuso de poder econômico e por captação ilícita de gastos nacampanha de 2014. Ação pede declaração de inelegibilidade e cassação dodiploma. É investigada por abuso de poder econômico e político e por condutavedada a agente político. Também são investigados sua mãe Rosinha Garotinho,prefeita de Campos dos Goytacazes, e seu pai Anthony Garotinho, ex-deputadofederal. O Ministério Público Eleitoral investiga esquema da prefeitura de Camposdos Goytacazes para favorecer políticos do Partido da República. É alvo deinquérito, ajuizado pelo MPE, referente a supostos crimes de abuso de podereconômico e captação ilícita de sufrágio, durante as eleições de 2014. Houvedeclínio de competência e o processo foi remetido ao STF para apreciação.",
+      "dataAtualizacao": "25/11/2016"
+    },
+    {
+      "nome": "Cristiane Brasil",
+      "partido": "PTB",
+      "estado": "RJ",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito referente a crime de boca de urna. A parlamentar chegou a serdetida em flagrante praticando boca de urna durante as eleições de 2014.",
+      "dataAtualizacao": "25/11/2015"
+    },
+    {
+      "nome": "Deley",
+      "partido": "PTB",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Dr. João",
+      "partido": "PR",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Eduardo Cunha",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "4",
+      "resumo": "O parlamentar foi condenado juntamente com Domingos Brazão (PMDB-RJ) porcaptação ilícita de sufrágio e uso eleitoral de serviços custeados pelo poder públicona campanha eleitoral de 2006. Multado, Cunha recorreu. O tribunal manteve amulta aplicada, no entanto, reconheceu a perda do objeto quanto à condenação àcassação de mandato, uma vez que este já havia sido concluído no momento dadecisão. Trata-se de um dos processos da Operação Lava Jato da Policia Federal,que investiga esquema de corrupção e lavagem de dinheiro com recursosdesviados da Petrobras. A denúncia por lavagem de dinheiro e corrupção passivafoi recebida pelo Tribunal. É alvo de inquérito que apura corrupção passiva elavagem de dinheiro, em razão da atribuição, pelo Estado suíço, de que Cunhamantém contas bancárias na Suíça. É alvo de inquérito que apura crimes da Lei deLicitações.",
+      "dataAtualizacao": "24/11/2015"
+    },
+    {
+      "nome": "Ezequiel Teixeira",
+      "partido": "PTN",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Felipe Bornier",
+      "partido": "PROS",
+      "estado": "RJ",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo investigação por uso indevido de meios de comunicação nas eleições de2014 movida pelo Ministério Público Eleitoral. Tribunal investiga a promoçãoexcessiva de sua candidatura nos jornais Dia a Dia e ABC Diário.",
+      "dataAtualizacao": "26/11/2015"
+    },
+    {
+      "nome": "Fernando Jordão",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "11",
+      "resumo": "É réu em ação penal que apura captação ilícita de votos ou corrupção eleitoral. OSTF acatou a proposta de suspensão condicional do processo, mediante arealização de doações mensais e pessoais do parlamentar à APAE,correspondentes a 10% de seu vencimento mensal bruto, por dois anos. Éinvestigado em inquérito que apura crime da Lei de Licitações. É réu em ações civispúblicas por improbidade administrativa movidas pelo Ministério Público.",
+      "dataAtualizacao": "30/11/2015"
+    },
+    {
+      "nome": "Francisco Floriano",
+      "partido": "DEM",
+      "estado": "RJ",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação de investigação judicial eleitoral por abuso de poder econômico epor uso da igreja Mundial do Poder de Deus em Volta Redonda (RJ) para promoversua candidatura. Ação pede inelegibilidade e cassação de mandato do parlamentar.",
+      "dataAtualizacao": "24/11/2015"
+    },
+    {
+      "nome": "Glauber Braga",
+      "partido": "PSOL",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Hugo Leal",
+      "partido": "PSB",
+      "estado": "RJ",
+      "totalOcorrencias": "6",
+      "resumo": "Foi condenado por violações aos princípios administrativos pela sua participação no'esquema das ONGs' de irregularidades licitatórias, no período em que foipresidente do DETRAN/RJ. É alvo de ações por improbidade administrativamovidas pelo Ministério Público"
+    },
+    {
+      "nome": "Indio da Costa",
+      "partido": "PSD",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jair Bolsonaro",
+      "partido": "PSC",
+      "estado": "RJ",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de inquérito que apura apologia de crime ou criminoso movido peloMinistério Público Federal, devido à declaração em plenário dirigida à deputadaMaria do Rosário (PT-RJ), segundo a qual o parlamentar \"só não estupraria adeputada, porque ela não merecia\". Foi condenado a retratar-se publicamente e apagar o montante de R$ 10 mil em indenização por dano moral causado àdeputada federal Maria do Rosário (PT-RS), em virtude das declarações a eladirecionadas em plenário. O parlamentar recorreu da condenação na segundainstância, mas a decisão foi mantida. Foi condenado ao pagamento de indenizaçãode R$ 150 mil por danos morais difusos, em ação civil pública movida pelos gruposCabo Free de Conscientização Homossexual e Combate à Homofobia e Arco-Írisde Conscientização Homossexual. Em agravo tramitando na segunda instância, oparlamentar conseguiu suspender a pena até que o recurso seja julgado peloTribunal"
+    },
+    {
+      "nome": "Jandira Feghali",
+      "partido": "PCdoB",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jean Wyllys",
+      "partido": "PSOL",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Julio Lopes",
+      "partido": "PP",
+      "estado": "RJ",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito que apura apropriação indébita previdenciária. O processo estásuspenso, pois parlamentar está efetuando o pagamento dos débitos.",
+      "dataAtualizacao": "24/11/2015"
+    },
+    {
+      "nome": "Leonardo Picciani",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de representação (sob segredo de justiça) por captação e gastos ilícitos nacampanha de 2014 com pedido de cassação de diploma.",
+      "dataAtualizacao": "24/11/2015"
+    },
+    {
+      "nome": "Luiz Carlos Ramos",
+      "partido": "PTN",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Luiz Sérgio",
+      "partido": "PT",
+      "estado": "RJ",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação por improbidade administrativa movida pelo MPF",
+      "dataAtualizacao": "19/11/2015"
+    },
+    {
+      "nome": "Marcelo Matos",
+      "partido": "PHS",
+      "estado": "RJ",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito que apura crimes previstos na lei de licitações.",
+      "dataAtualizacao": "25/11/2015"
+    },
+    {
+      "nome": "Marco Antônio Cabral",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-",
+      "dataAtualizacao": "14/04/2016"
+    },
+    {
+      "nome": "Marcos Soares",
+      "partido": "DEM",
+      "estado": "RJ",
+      "totalOcorrencias": "2",
+      "resumo": "Teve reprovada a prestação de contas de 2014 para deputado federal por diversasfalhas e omissões nas contas da campanha. Parlamentar recorreu em terceirainstância, mas a decisão foi mantida. É alvo de ação de investigação judicialeleitoral por abuso de poder econômico e por uso da igreja Internacional da Graçapara campanha eleitoral. Ação pede inelegibilidade e cassação de mandato doparlamentar.",
+      "dataAtualizacao": "24/11/2015"
+    },
+    {
+      "nome": "Miro Teixeira",
+      "partido": "REDE",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Otavio Leite",
+      "partido": "PSDB",
+      "estado": "RJ",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de representação (sob segredo de justiça) por captação e gastos ilícitos nacampanha de 2014 com pedido de cassação de diploma. O processo envolve agráfica High Level Signs que foi lacrada por conter material não declarado decampanha do parlamentar e dos deputados federais Marco Antonio Cabral (PMDB),Pedro Paulo (PMDB) e Leonardo Picciani (PMDB), estes respondem processosseparados. Foi deferido o pedido de quebra de sigilo bancário.",
+      "dataAtualizacao": "24/11/2015"
+    },
+    {
+      "nome": "Paulo Feijó",
+      "partido": "PR",
+      "estado": "RJ",
+      "totalOcorrencias": "3",
+      "resumo": "Condenado em processo por improbidade administrativa, o parlamentar foicondenado por dano ao erário a perda de bens, ressarcimento integral do dinheirorecebido ilicitamente, multa e suspensão de direitos políticos por oito anos. Oparlamentar recorre. É réu em ação penal por crimes de corrupção passiva,licitatórios, lavagem de dinheiro e formação de quadrilha. O caso está relacionado àoperação Sanguessuga e o processo tramita em segredo de justiça. É investigadopor abuso de poder econômico e por captação ilícita de gastos na campanha de2014. O processo envolve a gráfica PH Gomes Editora Ltda do jornal O Diário quefoi lacrada por conter material não declarado de campanha do parlamentar, dadeputada federal Clarissa Garotinho (PR) e de outros candidatos do PR. Ação pededeclaração de inelegibilidade e cassação do diploma.",
+      "dataAtualizacao": "25/11/2015"
+    },
+    {
+      "nome": "Pedro Paulo",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito por lesão corporal. O parlamentar é investigado por agressão àex-mulher, Alexandra Marcondes. É alvo de inquérito por crime de boca de urna",
+      "dataAtualizacao": "14/04/2016"
+    },
+    {
+      "nome": "Roberto Sales",
+      "partido": "PRB",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Rodrigo Maia",
+      "partido": "DEM",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Rosangela Gomes",
+      "partido": "PRB",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Sérgio Zveiter",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "0"
+    },
+    {
+      "nome": "Simão Sessim",
+      "partido": "PP",
+      "estado": "RJ",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquéritos abertos com a Operação Lava Jato da Policia Federal, queinvestigam esquema de corrupção e lavagem de dinheiro com recursos desviadosda Petrobras",
+      "dataAtualizacao": "19/11/2015"
+    },
+    {
+      "nome": "Soraya Santos",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Sóstenes Cavalcante",
+      "partido": "DEM",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Wadih Damous",
+      "partido": "PT",
+      "estado": "RJ",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Washington Reis",
+      "partido": "PMDB",
+      "estado": "RJ",
+      "totalOcorrencias": "30",
+      "resumo": "O TCE-RJ detectou irregularidades em contratos e contas referentes àadministração financeira da prefeitura de Duque de Caxias. No STF, responde pelaação penal 618.É réu em ação penal movida pelo Ministério Público Federal porcrimes contra o meio ambiente e o patrimônio genético e formação de quadrilha.Éalvo de quatro inquéritos movidos pelo Ministério Público Federal por crimes da Leide Licitações. É alvo de inquérito que apura crimes de responsabilidade. É alvo deinquérito que apura crimes contra a paz pública (quadrilha ou bando). Corre sobsegredo de Justiça.É réu em ação de improbidade administrativa movida pelo MPFpor irregularidade na execução de contrato efetuado entre o Município de Duque deCaxias e a Construtora OAS Ltda, quando prefeito.",
+      "dataAtualizacao": "27/11/2015"
+    },
+    {
+      "nome": "Carlos Manato",
+      "partido": "SD",
+      "estado": "ES",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Dr. Jorge Silva",
+      "partido": "PHS",
+      "estado": "ES",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Evair de Melo",
+      "partido": "PV",
+      "estado": "ES",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Givaldo Vieira",
+      "partido": "PT",
+      "estado": "ES",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Helder Salomão",
+      "partido": "PT",
+      "estado": "ES",
+      "totalOcorrencias": "4",
+      "resumo": "É alvo de ação civil de improbidade administrativa, movida pelo Ministério PúblicoEstadual. É alvo de outras ações civis públicas movidas pelo Ministério PúblicoEstadual"
+    },
+    {
+      "nome": "Lelo Coimbra",
+      "partido": "PMDB",
+      "estado": "ES",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito que apura captação ilícita de votos ou corrupção eleitoral.",
+      "dataAtualizacao": "21/03/2016"
+    },
+    {
+      "nome": "Marcus Vicente",
+      "partido": "PP",
+      "estado": "ES",
+      "totalOcorrencias": "4",
+      "resumo": "O PTB-ES teve as contas anuais do partido desaprovadas referentes ao exercíciofinanceiro dos anos de 2005 e 2006, quando o parlamentar presidia a sigla. Oparlamentar recorreu, mas o TSE manteve a decisão. É alvo de representaçãomovida pelo Ministério Público Eleitoral do Espírito Santo por captação ou gastoilícito de recursos financeiros de campanha eleitoral. É réu em ação penal. AJustiça estadual declarou-se incompetente e a ação foi remetida ao SupremoTribunal Federal, em virtude da prerrogativa de função do deputado.",
+      "dataAtualizacao": "21/03/2016"
+    },
+    {
+      "nome": "Max Filho",
+      "partido": "PSDB",
+      "estado": "ES",
+      "totalOcorrencias": "7",
+      "resumo": "Teve reprovada prestação de contas referente à campanha eleitoral de 2010 porgasto com combustível em veículos não declarados na campanha. Recorreu, masdecisão foi mantida. TCE-ES apontou irregularidades na gestão da prefeitura deVila Velha, quando ele foi prefeito.",
+      "dataAtualizacao": "21/03/2016"
+    },
+    {
+      "nome": "Paulo Foletto",
+      "partido": "PSB",
+      "estado": "ES",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de representação ajuizada pelo Ministério Público Eleitoral. O processo dizrespeito a conduta vedada a agente público e captação ilícita de sufrágio, duranteas eleições de 2014.",
+      "dataAtualizacao": "21/03/2016"
+    },
+    {
+      "nome": "Sergio Vidigal",
+      "partido": "PDT",
+      "estado": "ES",
+      "totalOcorrencias": "9",
+      "resumo": "Foi multado no convênio firmado entre a prefeito de Serra (ES) e a construtora SáCavalcante por alteração irregular na construção da Escola Técnica Federal domunicípio. A multa foi quitada.  Foi multado por desrespeitar acordãos do tribunal,nos quais determinou-se a redução do estoque de prestações de contas pendentesda Secretaria de Políticas Públicas de Emprego do Ministério do Trabalho, da qualera secretário titular. É réu em ação penal movida pelo Ministério Público Federal,referente a crimes contra o meio ambiente. É alvo de três ações civis públicas,movidas pelo Ministério Público Estadual. Figura como responsável nas prestaçõesde contas de exercício financeiro do partido, na condição de presidente regional doPDT no Espírito Santo, as quais foram julgadas não prestadas ou desaprovadas.",
+      "dataAtualizacao": "21/03/2016"
+    },
+    {
+      "nome": "Assis Carvalho",
+      "partido": "PT",
+      "estado": "PI",
+      "totalOcorrencias": "10",
+      "resumo": "Foi condenado ao pagamento de multa no montante de R$ 10 mil pordescumprimento à Lei de Licitações. É alvo de inquéritos que apuram apropriaçãoindébita previdenciária. É alvo de inquérito que apura peculato.É alvo de ação penalapresentada pelo Ministério Público Estadual por estelionato e crimes contra aadministração e finanças públicas. É alvo de ações de improbidade administrativa(atos administrativos) movidas pelo MPF.",
+      "dataAtualizacao": "24/07/2015"
+    },
+    {
+      "nome": "Átila Lira",
+      "partido": "PSB",
+      "estado": "PI",
+      "totalOcorrencias": "4",
+      "resumo": "Teve reprovada a prestação de contas das eleições de 2014 para deputado federal.O parlamentar recorre da decisão.Com base na desaprovação das contas decampanha de 2014, o Ministério Público Eleitoral entrou com representaçãopedindo a cassação de diploma do parlamentar. É alvo de inquérito que apurafalsidade ideológica, formação de quadrilha, estelionato e crimes por lavagem dedinheiro. Processo corre sob segredo de justiça. É alvo de ação de improbidadeadministrativa movida pelo Ministério Público Federal.",
+      "dataAtualizacao": "28/07/2015"
+    },
+    {
+      "nome": "Capitão Fábio Abreu",
+      "partido": "PTB",
+      "estado": "PI",
+      "totalOcorrencias": "0"
+    },
+    {
+      "nome": "Heráclito Fortes",
+      "partido": "PSB",
+      "estado": "PI",
+      "totalOcorrencias": "2",
+      "resumo": "Foi condenado em ação popular por improbidade administrativa. O parlamentar,então prefeito de Teresina, fez uso de publicidade institucional para promoçãopessoal. A Justiça determinou ressarcimento dos cofres públicos. O deputadorecorreu, mas a condenação foi mantida. Recorreu ao STF, mas recurso foinegado. Teve reprovada prestação de contas da sua campanha eleitoral de 2014.O parlamentar recorre. O Ministério Público Eleitoral entrou com representação compedido de cassação do diploma"
+    },
+    {
+      "nome": "Iracema Portella",
+      "partido": "PP",
+      "estado": "PI",
+      "totalOcorrencias": "4",
+      "resumo": "Suas contas da campanha eleitoral de 2014 foram desaprovadas pela JustiçaEleitoral. A parlamentar foi multada em R$ 72 mil. A parlamentar recorreu, mas adecisão foi mantida. É investigada por abuso de poder econômico em ação movidapelo Ministério Público Eleitoral. A deputada e seu marido, o senador Ciro Nogueira(PP-PI), são alvo de inquérito que apura crimes de lavagem ou ocultação de bens,direitos ou valores, tráfico de influência e formação de quadrilha ou bando.  É ré emação civil por improbidade administrativa movida pelo Ministério Público Federal,conjuntamente com o seu marido e senador Ciro Nogueira (PP-PI), por promoçãopessoal e propaganda eleitoral realizada com dinheiro público."
+    },
+    {
+      "nome": "Júlio Cesar",
+      "partido": "PSD",
+      "estado": "PI",
+      "totalOcorrencias": "3",
+      "resumo": "Teve as contas de campanha eleitoral de 2014 desaprovadas. Recorre da decisãono TSE.  Foi condenado em procedimento administrativo movido pelo ministério daAgricultura, Pecuária e Abastecimento a devolver solidariamente com outrosdiretores da CONAB R$ 9 milhões recebidos de acordo entre o órgão e oBCN/Bradesco. É réu em ação movida pelo Ministério Público Federal porimprobidade administrativa com enriquecimento ilícito, referente a contratoassinado quando dirigente da CONAB.",
+      "dataAtualizacao": "30/03/2016"
+    },
+    {
+      "nome": "Marcelo Castro",
+      "partido": "PMDB",
+      "estado": "PI",
+      "totalOcorrencias": "1",
+      "resumo": "O partido teve a prestação de contas de 2010 rejeitada, quando o parlamentarpresidia o diretório estadual.",
+      "dataAtualizacao": "14/04/2016"
+    },
+    {
+      "nome": "Paes Landim",
+      "partido": "PTB",
+      "estado": "PI",
+      "totalOcorrencias": "4",
+      "resumo": "Suas contas da campanha eleitoral de 2014 foram desaprovadas pela JustiçaEleitoral. O parlamentar recorre. É investigado por abuso de poder econômico ecompra de votos em ação movida pelo Ministério Público Eleitoral. É alvo derepresentação movida pelo Ministério Público Eleitoral por abuso de podereconômico e compra de votos. É alvo de representação movida pelo MinistérioPúblico Eleitoral com pedido de cassação do seu mandato de deputado federal.",
+      "dataAtualizacao": "24/07/2015"
+    },
+    {
+      "nome": "Rejane Dias",
+      "partido": "PT",
+      "estado": "PI",
+      "totalOcorrencias": "0",
+      "resumo": "-",
+      "dataAtualizacao": "14/04/2016"
+    },
+    {
+      "nome": "Rodrigo Martins",
+      "partido": "PSB",
+      "estado": "PI",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Antônio Jácome",
+      "partido": "PTN",
+      "estado": "RN",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Beto Rosado",
+      "partido": "PP",
+      "estado": "RN",
+      "totalOcorrencias": "1",
+      "resumo": "Teve reprovada a prestação de contas das eleições de 2014 para deputado federal.O parlamentar recorre.",
+      "dataAtualizacao": "10/12/2015"
+    },
+    {
+      "nome": "Fábio Faria",
+      "partido": "PSD",
+      "estado": "RN",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito que apura uso de documentos falsificados em sua prestação decontas eleitoral.",
+      "dataAtualizacao": "22/07/2015"
+    },
+    {
+      "nome": "Felipe Maia",
+      "partido": "DEM",
+      "estado": "RN",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Rafael Motta",
+      "partido": "PSB",
+      "estado": "RN",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Rogério Marinho",
+      "partido": "PSDB",
+      "estado": "RN",
+      "totalOcorrencias": "2",
+      "resumo": "O diretório regional do PSDB no Rio Grande do Norte teve reprovada prestação decontas referente às eleições de 2010, quando o parlamentar atuou comoresponsável pela administração financeira. Recorreu, mas decisão foi mantida. Éalvo de inquérito que apura falsidade ideológica e crimes contra a ordem tributária.",
+      "dataAtualizacao": "06/08/2015"
+    },
+    {
+      "nome": "Walter Alves",
+      "partido": "PMDB",
+      "estado": "RN",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Zenaide Maia",
+      "partido": "PR",
+      "estado": "RN",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Adelmo Carneiro Leão",
+      "partido": "PT",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação movida pelo Ministério Público de Minas Gerais por dano ambiental.",
+      "dataAtualizacao": "17/11/2015"
+    },
+    {
+      "nome": "Aelton Freitas",
+      "partido": "PR",
+      "estado": "MG",
+      "totalOcorrencias": "13",
+      "resumo": "Foi multado por irregularidades referentes a despesas da prefeitura de Iturama noexercício de 1994.Foi multado por irregularidades referentes a procedimentoslicitatórios e contratos da prefeitura de Iturama no exercício de 1996. A decisão estátransitada em julgado. Foi declarada a nulidade de contratos celebrados entre aprefeitura de Iturama e empresas, em virtude de irregularidades, à época em que oparlamentar era prefeito do município. Referente a contrato celebrado de maneirairregular entre o município de Iturama e a empresa Certril Construções ElétricasLTDA. O parlamentar recorre. Referente a contrato celebrado de maneira irregularentre o município de Iturama e a empresa Ituraup Iturama Auto Peças LTDA.Referente a contrato celebrado de maneira irregular entre o município de Iturama ea empresa Rádio Pontal do Triângulo Mineiro LTDA. O parlamentar recorre.Responde, ainda, por diversas outras ações civis públicas de improbidadeadministrativa, referentes a irregularidades constatadas durante seu exercício comoprefeito de Iturama que incluem celebração de contratos sem licitação.",
+      "dataAtualizacao": "17/11/2015"
+    },
+    {
+      "nome": "Bilac Pinto",
+      "partido": "PR",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "É investigado em inquérito que apura corrupção eleitoral e transporte ilegal deeleitores",
+      "dataAtualizacao": "13/11/2015"
+    },
+    {
+      "nome": "Bonifácio de Andrada",
+      "partido": "PSDB",
+      "estado": "MG",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de inquérito que apura apropriação indébita previdenciária e sonegação decontribuição previdenciária. É alvo de ação civil pública movida pelo MinistérioPúblico Estadual. É alvo de ação civil pública movida pelo Ministério PúblicoFederal.",
+      "dataAtualizacao": "13/11/2015"
+    },
+    {
+      "nome": "Brunny",
+      "partido": "PR",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Caio Narcio",
+      "partido": "PSDB",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenado ao pagamento de multa em representação de conduta vedada aagente público, movida pelo Ministério Público Eleitoral. O parlamentar e os demaisréus teriam utilizado um veículo pertencente à Prefeitura para transportar bebidasao evento de inauguração de uma ponte no município de Coromandel. Tambémrealizaram, durante o evento público, propaganda política em favor de Caio Nárcio",
+      "dataAtualizacao": "18/11/2015"
+    },
+    {
+      "nome": "Carlos Melles",
+      "partido": "DEM",
+      "estado": "MG",
+      "totalOcorrencias": "2",
+      "resumo": "Foi condenado por improbidade administrativa em ação movida pelo MinistérioPúblico por usar propaganda oficial para fins políticos pessoais. Recorreu dacondenação, que foi mantida, mas conseguiu reverter a suspensão de direitospolíticos e perda do mandato, mantendo somente a pena de pagamento de multa:O parlamentar ainda recorre. Foi condenado no TSE a inelegibilidade por três anos,a partir de 2006, por uso indevido dos meios de comunicação social. O parlamentarrecorreu, mas a decisão foi mantida.",
+      "dataAtualizacao": "17/11/2015"
+    },
+    {
+      "nome": "Dâmina Pereira",
+      "partido": "PSL",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Delegado Edson Moreira",
+      "partido": "PR",
+      "estado": "MG",
+      "totalOcorrencias": "5",
+      "resumo": "É réu em ação penal por peculato movida pelo Ministério Público Federal. É alvo deinquérito que apura peculato. É alvo de inquérito que apura crimes contra aadministração pública e peculato. É alvo de inquérito que apura o crime de ameaça.É alvo de inquérito que apura corrupção passiva.",
+      "dataAtualizacao": "24/11/2015"
+    },
+    {
+      "nome": "Diego Andrade",
+      "partido": "PSD",
+      "estado": "MG",
+      "totalOcorrencias": "3",
+      "resumo": "Na condição de presidente do diretório estadual mineiro do PSD, o parlamentarfigura como parte em processos nos municípios de Taiobebeiras, onde a legendanão prestou as contas anuais de 2013 e 2014, e em Barra Longa, onde ocorreu omesmo em relação ao exercício de 2014. A Justiça Eleitoral condenou o diretóriomunicipal à suspensão do repasse de novas cotas do fundo partidário, enquanto asituação não estiver regularizada:",
+      "dataAtualizacao": "13/11/2015"
+    },
+    {
+      "nome": "Dimas Fabiano",
+      "partido": "PP",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Domingos Sávio",
+      "partido": "PSDB",
+      "estado": "MG",
+      "totalOcorrencias": "2",
+      "resumo": "Teve despesas consideradas irregulares, juntamente com outros ex-presidentes daCâmara Municipal de Divinópolis, acerca de convênio celebrado entre a Câmara ea Delegacia Regional de Policia Civil. O TCE-MG determinou a restituição devalores aos cofres públicos. Recorreu da decisão que foi mantida. É alvo de açãocivil de improbidade administrativa movida pelo MPE.",
+      "dataAtualizacao": "12/11/2015"
+    },
+    {
+      "nome": "Eduardo Barbosa",
+      "partido": "PSDB",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito movido pelo Ministério Público Federal por peculato. O processoestá sob segredo de justiça.",
+      "dataAtualizacao": "11/11/2015"
+    },
+    {
+      "nome": "Eros Biondini",
+      "partido": "PROS",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Fábio Ramalho",
+      "partido": "PMDB",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "Foi responsabilizado por falhas referentes a controle interno e a processoslicitatórios, quando prefeito.",
+      "dataAtualizacao": "13/11/2015"
+    },
+    {
+      "nome": "Franklin Lima",
+      "partido": "PP",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenado a inelegibilidade pelo período de 8 anos após as eleições de 2014.Em evento religioso realizado pela Igreja Mundial do Reino de Deus, com cerca decinco mil participantes e ocorrido no dia anterior à eleição, o pastor ValdemiroSantiago promoveu as candidaturas de Pastor Franklin, candidato à deputadofederal, e do então candidato à deputado estadual Missionário Márcio Santiago(PTB-MG), chegando a pedir explicitamente que seus fiéis votassem noscandidatos. A justiça eleitoral entendeu se tratar de abuso de poder econômicomediante o abuso do poder de autoridade religiosa. O parlamentar recorreu, mas adecisão foi mantida. Entrou com a ação cautelar nº 47003 contra a decisão emrecurso, mas foi negada.",
+      "dataAtualizacao": "19/11/2015"
+    },
+    {
+      "nome": "Gabriel Guimarães",
+      "partido": "PT",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "George Hilton",
+      "partido": "PROS",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-",
+      "dataAtualizacao": "14/04/2016"
+    },
+    {
+      "nome": "Jaime Martins",
+      "partido": "PSD",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jô Moraes",
+      "partido": "PCdoB",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Júlio Delgado",
+      "partido": "PSB",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Laudivio Carvalho",
+      "partido": "SD",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Leonardo Monteiro",
+      "partido": "PT",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação civil pública movida pelo Ministério Público Estadual.",
+      "dataAtualizacao": "13/11/2015"
+    },
+    {
+      "nome": "Leonardo Quintão",
+      "partido": "PMDB",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação civil por improbidade administrativa movida pelo Ministério PúblicoEstadual.",
+      "dataAtualizacao": "13/11/2015"
+    },
+    {
+      "nome": "Lincoln Portela",
+      "partido": "PRB",
+      "estado": "MG",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito que apura crimes previstos na lei de licitações. É alvo de açãode improbidade administrativa movida pelo Ministério Público Federal e pela União.Parlamentar entrou com recurso contra admissão da ação, mas a ação foi mantida.Recorreu no STJ e recurso foi admitido somente no seu efeito devolutivo. Recorreuno STF, mas a decisão foi mantida",
+      "dataAtualizacao": "12/11/2015"
+    },
+    {
+      "nome": "Luis Tibé",
+      "partido": "PTdoB",
+      "estado": "MG",
+      "totalOcorrencias": "6",
+      "resumo": "Foi condenado à restituição aos cofres públicos e multa, em face de atos deimprobidade administrativa com dano ao erário devido à utilização irregular daverba indenizatória. O parlamentar recorre da decisão. Na condição de presidentenacional do PT do B, Luis Tibé consta como parte em processo que julgou ascontas do partido como não prestadas em Juruaia (MG). É alvo de ação civilpública por emprego irregular de verbas ou rendas públicas movida pelo MPE. Éalvo de inquérito que apura peculato,crimes eleitorais. É alvo de inquérito movidopelo MPE que apura falsificação de documento público para fins eleitorais.",
+      "dataAtualizacao": "17/11/2015"
+    },
+    {
+      "nome": "Luiz Fernando Faria",
+      "partido": "PP",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquéritos abertos com a Operação Lava Jato da Policia Federal, queinvestigam esquema de corrupção, formação de quadrilha e lavagem de dinheirocom recursos desviados da Petrobras. Neste último é investigado por oferecerpropina para processo licitatório da Petrobras como representante da empresaFidens Engenharia. Também consta no processo o deputado federal José OtávioGermano (PP-RS).",
+      "dataAtualizacao": "11/11/2015"
+    },
+    {
+      "nome": "Marcelo Álvaro Antônio",
+      "partido": "PR",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Marcelo Aro",
+      "partido": "PHS",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Marcos Montes",
+      "partido": "PSD",
+      "estado": "MG",
+      "totalOcorrencias": "4",
+      "resumo": "Condenado em ação civil de improbidade administrativa. A Justiça determinoususpensão dos direitos políticos por oito anos, ressarcimento ao erário epagamento de multa. Foram constatadas irregularidades em contratação semlicitação da empresa Agência de Desenvolvimento Sustentável do Brasil Central.TJMG que manteve a condenação, mas retirou o pagamento de multa das penas.O parlamentar recorre no STJ. É alvo de ação civil de improbidade administrativa(dano ao erário) movida pelo Ministério Público Estadual.",
+      "dataAtualizacao": "17/11/2015"
+    },
+    {
+      "nome": "Marcus Pestana",
+      "partido": "PSDB",
+      "estado": "MG",
+      "totalOcorrencias": "3",
+      "resumo": "Na condição de presidente do diretório estadual mineiro do PSDB, o parlamentarfigura como parte em processos nos municípios de Prados, Cipotânea e SãoGonçalo do Rio Abaixo, nos quais a legenda não prestou as contas anuais doexercício financeiro de 2014. A Justiça Eleitoral condenou os diretórios municipais àsuspensão do repasse de novas cotas do fundo partidário, enquanto a situação nãoestiver regularizada.",
+      "dataAtualizacao": "13/11/2015"
+    },
+    {
+      "nome": "Margarida Salomão",
+      "partido": "PT",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "É ré em ação civil de improbidade administrativa e dano ao erário.",
+      "dataAtualizacao": "11/11/2015"
+    },
+    {
+      "nome": "Mário Heringer",
+      "partido": "PDT",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Mauro Lopes",
+      "partido": "PMDB",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-",
+      "dataAtualizacao": "15/04/2015"
+    },
+    {
+      "nome": "Miguel Corrêa",
+      "partido": "PT",
+      "estado": "MG",
+      "totalOcorrencias": "0"
+    },
+    {
+      "nome": "Misael Varella",
+      "partido": "DEM",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Newton Cardoso Jr",
+      "partido": "PMDB",
+      "estado": "MG",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de inquérito que apura lavagem de dinheiro e falsidade ideológica. Açõespenais por crimes contra a ordem tributaria e meio ambiente",
+      "dataAtualizacao": "14/12/2015"
+    },
+    {
+      "nome": "Odelmo Leão",
+      "partido": "PP",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "Foi condenado por improbidade administrativa (dano ao erário) pelo uso indevidodo avião da Secretaria estadual de Agricultura para viagens particulares, quandochefiava a pasta. Também foi condenado, no mesmo processo, o deputado SilasBrasileiro (PMDB). A Justiça determinou o ressarcimento de R$ 25 mil aos cofrespúblicos. O parlamentar recorreu em segunda instância, mas a decisão foi mantida:TJ-MG - Apelação cível nº 0890738-09.2011.8.13.0024. Entrou com embargoscontra a decisão da apelação, que foram rejeitados:",
+      "dataAtualizacao": "19/11/2015"
+    },
+    {
+      "nome": "Padre João",
+      "partido": "PT",
+      "estado": "MG",
+      "totalOcorrencias": "2",
+      "resumo": "O TRE decidiu pela desaprovação da prestação de contas referente à campanhanas eleições de 2014. O parlamentar recorre da decisão. É alvo de ação civil deimprobidade administrativa, ajuizado pelo Ministério Público Federal, devido aosuposto uso de recursos do Ministério da Pesca e Aquicultura de Minas Gerais paraautopromoção durante o período de campanha eleitoral.",
+      "dataAtualizacao": "13/11/2015"
+    },
+    {
+      "nome": "Patrus Ananias",
+      "partido": "PT",
+      "estado": "MG",
+      "totalOcorrencias": "0"
+    },
+    {
+      "nome": "Paulo Abi-Ackel",
+      "partido": "PSDB",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Raquel Muniz",
+      "partido": "PSD",
+      "estado": "MG",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de ação por improbidade administrativa e enriquecimento ilícito movida pelaUnião Federal. A parlamentar e seu marido são réus em ação por improbidadeadministrativa com dano ao erário, referente a mau uso de verbas públicasdestinadas a uma de suas empresas, a FUNORTE. A parlamentar e seu maridosão investigados por abuso de poder político e de autoridade. Ministério Públicoinvestiga esquema de favorecimento da candidatura da parlamentar comconcessão de gratificações a servidores públicos na prefeitura governada pelomarido.",
+      "dataAtualizacao": "16/11/2015"
+    },
+    {
+      "nome": "Reginaldo Lopes",
+      "partido": "PT",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Renzo Braz",
+      "partido": "PP",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Rodrigo de Castro",
+      "partido": "PSDB",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Rodrigo Pacheco",
+      "partido": "PMDB",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Saraiva Felipe",
+      "partido": "PMDB",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Stefano Aguiar",
+      "partido": "PSD",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Subtenente Gonzaga",
+      "partido": "PDT",
+      "estado": "MG",
+      "totalOcorrencias": "2",
+      "resumo": "Foi condenado por crime cometidos contra o sistema financeiro nacional à pena deum ano de reclusão, substituída por prestação de serviços à comunidade. Na épocaem que era diretor da Cooperativa de Economia e Crédito Mútuo dos ServidoresMilitares, Polícia Civil e Secretaria de Educação de Minas Gerais, teria utilizadodados de vários cooperados, violando sigilos bancários, com o intuito de suspenderas eleições do conselho de administração da cooperativa. Após a condenação, foideclarada a extinção de sua punibilidade. É réu em ação penal por crimes contra osistema financeiro nacional.",
+      "dataAtualizacao": "17/11/2015"
+    },
+    {
+      "nome": "Tenente Lúcio",
+      "partido": "PSB",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Toninho Pinheiro",
+      "partido": "PP",
+      "estado": "MG",
+      "totalOcorrencias": "1",
+      "resumo": "O tribunal detectou irregularidades em procedimentos licitatórios do município deIbirité referente ao período em que foi prefeito. Foi condenado a pagar multa. Teverecurso negado",
+      "dataAtualizacao": "16/11/2015"
+    },
+    {
+      "nome": "Weliton Prado",
+      "partido": "PMB",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Zé Silva",
+      "partido": "SD",
+      "estado": "MG",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Aguinaldo Ribeiro",
+      "partido": "PP",
+      "estado": "PB",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito aberto com a Operação Lava Jato da Policia Federal, queinvestiga esquema de corrupção, formação de quadrilha e lavagem de dinheiro comrecursos desviados da Petrobras. É alvo de inquérito que apura crimes previstos naLei de Licitações.",
+      "dataAtualizacao": "29/02/2016"
+    },
+    {
+      "nome": "Benjamin Maranhão",
+      "partido": "SD",
+      "estado": "PB",
+      "totalOcorrencias": "2",
+      "resumo": "O Ministério Público Eleitoral entrou com pedido de impugnação de sua candidaturaa deputado federal em 2006, devido à rejeição, pelo Tribunal de Contas do Estado,das contas referentes ao exercício de 2001, quando o parlamentar era prefeito deAraruna. O parlamentar acabou por desistir de sua candidatura. É réu em açãopenal por formação de quadrilha ou bando e por crime contra a Lei de licitações.",
+      "dataAtualizacao": "29/02/2016"
+    },
+    {
+      "nome": "Damião Feliciano",
+      "partido": "PDT",
+      "estado": "PB",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação civil pública movida pelo Ministério Público Estadual.",
+      "dataAtualizacao": "29/02/2016"
+    },
+    {
+      "nome": "Efraim Filho",
+      "partido": "DEM",
+      "estado": "PB",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito que apura crimes na lei de licitações.",
+      "dataAtualizacao": "01/03/2016"
+    },
+    {
+      "nome": "Hugo Motta",
+      "partido": "PMDB",
+      "estado": "PB",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Luiz Couto",
+      "partido": "PT",
+      "estado": "PB",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Manoel Junior",
+      "partido": "PMDB",
+      "estado": "PB",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Pedro Cunha Lima",
+      "partido": "PSDB",
+      "estado": "PB",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Rômulo Gouveia",
+      "partido": "PSD",
+      "estado": "PB",
+      "totalOcorrencias": "6",
+      "resumo": "É alvo de ação penal proposta pelo Ministério Público Federal por crime da Lei deLicitações. Em recurso especial apresentado pelo MPE-PB, foi reformada a decisãodo TRE-PB que aprovou com ressalvas as contas da sua campanha eleitoral aprefeitura de Campina Grande (PB), em 2008, para serem julgadas irregulares peloTSE.  É alvo de representação movida pelo Ministério Público Eleitoral porcaptação e gasto ilícito de recursos para campanha eleitoral de 2014. É alvo deação civil pública proposta pelo Ministério Público do Estado da Paraíba. É alvo deduas ações civis de improbidade administrativa, propostas pelo Ministério Públicodo Estado da Paraíba",
+      "dataAtualizacao": "01/03/2016"
+    },
+    {
+      "nome": "Veneziano Vital do Rêgo",
+      "partido": "PMDB",
+      "estado": "PB",
+      "totalOcorrencias": "35",
+      "resumo": "É réu em ação penal por crimes de responsabilidade e crimes contra a Lei deLicitações. O parlamentar é investigado em diversos inquéritos no STF. Oparlamentar figura como réu em ações por improbidade administrativa na JustiçaFederal. É alvo de inquéritos na Justiça Estadual. O parlamentar também é réu emações civis de improbidade administrativa na Justiça Estadual. Processosreferentes a irregularidades constatadas pelo TCE-PB na gestão do parlamentarcomo prefeito de Campina Grande (PB).",
+      "dataAtualizacao": "03/03/2016"
+    },
+    {
+      "nome": "Wellington Roberto",
+      "partido": "PR",
+      "estado": "PB",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação civil pública movida pelo Ministério Público Federal. Parlamentarrecorre de decisão desfavorável",
+      "dataAtualizacao": "02/03/2016"
+    },
+    {
+      "nome": "Wilson Filho",
+      "partido": "PTB",
+      "estado": "PB",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Adalberto Cavalcanti",
+      "partido": "PTB",
+      "estado": "PE",
+      "totalOcorrencias": "2",
+      "resumo": "Réu em processo por emprego irregular de verbas ou rendas públicas. É alvo deação civil de improbidade administrativa com dano ao erário.",
+      "dataAtualizacao": "17/12/2015"
+    },
+    {
+      "nome": "Anderson Ferreira",
+      "partido": "PR",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "André de Paula",
+      "partido": "PSD",
+      "estado": "PE",
+      "totalOcorrencias": "0"
+    },
+    {
+      "nome": "Augusto Coutinho",
+      "partido": "SD",
+      "estado": "PE",
+      "totalOcorrencias": "2",
+      "resumo": "É réu em ação penal sobre crimes contra o meio ambiente e o patrimônio genético.É alvo de ação civil pública movida pelo Ministério Público Federal por construçõesirregulares e degradação ambiental.",
+      "dataAtualizacao": "16/09/2015"
+    },
+    {
+      "nome": "Betinho Gomes",
+      "partido": "PSDB",
+      "estado": "PE",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito, ajuizado pelo Ministério Público Federal, que investiga crimeseleitorais.",
+      "dataAtualizacao": "17/12/2015"
+    },
+    {
+      "nome": "Bruno Araújo",
+      "partido": "PSDB",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Daniel Coelho",
+      "partido": "PSDB",
+      "estado": "PE",
+      "totalOcorrencias": "2",
+      "resumo": "O Tribunal de Contas considerou irregulares as contas de 27 vereadores noexercício de 2006 da Câmara Municipal de Recife, incluindo Coelho. Em recurso,conseguiu afastar a multa. É alvo de ação por improbidade administrativa movidapelo Ministério Público.",
+      "dataAtualizacao": "17/12/2015"
+    },
+    {
+      "nome": "Danilo Cabral",
+      "partido": "PSB",
+      "estado": "PE",
+      "totalOcorrencias": "0"
+    },
+    {
+      "nome": "Eduardo da Fonte",
+      "partido": "PP",
+      "estado": "PE",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquéritos abertos com a Operação Lava Jato da Policia Federal, queinvestigam esquema de corrupção, formação de quadrilha e lavagem de dinheirocom recursos desviados da Petrobras. Por determinação do STF, a Polícia Federalcumpriu mandado de busca e apreensão na residência do parlamentar.",
+      "dataAtualizacao": "17/12/2015"
+    },
+    {
+      "nome": "Fernando Coelho Filho",
+      "partido": "PSB",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Gonzaga Patriota",
+      "partido": "PSB",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jarbas Vasconcelos",
+      "partido": "PMDB",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "João Fernando Coutinho",
+      "partido": "PSB",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jorge Côrte Real",
+      "partido": "PTB",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Kaio Maniçoba",
+      "partido": "PMDB",
+      "estado": "PE",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito, ajuizado pelo Ministério Público Federal, referente a crime defalsidade ideológica.",
+      "dataAtualizacao": "11/12/2015"
+    },
+    {
+      "nome": "Luciana Santos",
+      "partido": "PCdoB",
+      "estado": "PE",
+      "totalOcorrencias": "6",
+      "resumo": "É alvo de inquérito que investiga crimes da Lei de Licitações e improbidadeadministrativa. É alvo de ações civis públicas movidas pelo Ministério PúblicoEstadual. O Tribunal de Contas do Estado julgou irregulares atos e contasreferentes à prefeitura de Olinda.",
+      "dataAtualizacao": "17/12/2015"
+    },
+    {
+      "nome": "Marinaldo Rosendo",
+      "partido": "PSB",
+      "estado": "PE",
+      "totalOcorrencias": "9",
+      "resumo": "É réu em ação civil de improbidade administrativa por uso irregular dos recursos doFUNDEB destinados aos programas Brasil Escolarizado e Estatísticas e AvaliaçõesEducacionais.Prestações de contas reprovadas",
+      "dataAtualizacao": "18/12/2015"
+    },
+    {
+      "nome": "Mendonça Filho",
+      "partido": "DEM",
+      "estado": "PE",
+      "totalOcorrencias": "3",
+      "resumo": "Em razão da posição de presidente regional do DEM em Pernambuco, oparlamentar é parte em processos que tiveram as contas do partido julgadas comonão prestadas em municípios pernambucanos.Referente às contas da direçãomunicipal de Ibirajuba (PE), para o exercício financeiro de 2014. Referente àscontas da direção municipal de Goiana (PE), para o exercício financeiro de2014.Referente às contas da direção municipal de Trindade (PE), para o exercíciofinanceiro de 2012.",
+      "dataAtualizacao": "01/04/2016"
+    },
+    {
+      "nome": "Pastor Eurico",
+      "partido": "PHS",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Ricardo Teobaldo",
+      "partido": "PTN",
+      "estado": "PE",
+      "totalOcorrencias": "5",
+      "resumo": "É alvo de diversas ações civis de improbidade administrativa no TJ-PE, ajuizadaspelo Ministério Público",
+      "dataAtualizacao": "18/12/2015"
+    },
+    {
+      "nome": "Sebastião Oliveira",
+      "partido": "PR",
+      "estado": "PE",
+      "totalOcorrencias": "0"
+    },
+    {
+      "nome": "Silvio Costa",
+      "partido": "PTdoB",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Tadeu Alencar",
+      "partido": "PSB",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Wolney Queiroz",
+      "partido": "PDT",
+      "estado": "PE",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Zeca Cavalcanti",
+      "partido": "PTB",
+      "estado": "PE",
+      "totalOcorrencias": "16",
+      "resumo": "É alvo de três ações civis públicas de improbidade administrativa na JustiçaEstadual. Foi condenado diversas vezes por admissão ilegal de pessoal duranteseus mandatos como prefeito de Arcoverde - PE.É investigado em inquéritos porcrimes de responsabilidade.É investigado em inquéritos por crimes deresponsabilidade e crimes contra a Lei de Licitações.É alvo de inquérito que apurairregularidades na aplicação de recursos públicos repassados pela União aomunicípio de Arcoverde/PE, quando o parlamentar figurava como prefeito domunicípio.",
+      "dataAtualizacao": "18/12/2015"
+    },
+    {
+      "nome": "Afonso Florence",
+      "partido": "PT",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Alice Portugal",
+      "partido": "PCdoB",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Antonio Brito",
+      "partido": "PSD",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Antonio Imbassahy",
+      "partido": "PSDB",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Arthur Oliveira Maia",
+      "partido": "PPS",
+      "estado": "BA",
+      "totalOcorrencias": "2",
+      "resumo": "É réu em ação movida pelo município de Bom Jesus da Lapa. É alvo de inquéritoque apura peculato e lavagem de dinheiro.",
+      "dataAtualizacao": "07/12/2015"
+    },
+    {
+      "nome": "Bacelar",
+      "partido": "PTN",
+      "estado": "BA",
+      "totalOcorrencias": "8",
+      "resumo": "As contas do PTN baiano foram reprovadas em 2008, 2009 e 2012, quando oparlamentar era presidente da sigla + É alvo de inquérito que apura suposto crimede peculato + Condenado a pagar multa e a ressarcir os cofres públicossolidariamente em R$ 770 mil por diversas irregularidades em contrato firmadoentre a Fundação Escola de Administração da Universidade Federal da Bahia eSecretaria da Educação, Cultura, Esportes e Lazer, comandada pelo parlamentar àépoca",
+      "dataAtualizacao": "16/12/2015"
+    },
+    {
+      "nome": "Bebeto",
+      "partido": "PSB",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Benito Gama",
+      "partido": "PTB",
+      "estado": "BA",
+      "totalOcorrencias": "1",
+      "resumo": "Crimes Previstos na Legislação Extravagante | Crimes Eleitorais*"
+    },
+    {
+      "nome": "Cacá Leão",
+      "partido": "PP",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Caetano",
+      "partido": "PT",
+      "estado": "BA",
+      "totalOcorrencias": "8",
+      "resumo": "Foi condenado em ação civil de improbidade administrativa com dano ao erário procontratação ilegal da Fundação Humanidade Amiga. O parlamentar ainda recorreem segunda instância. É réu em ação civil de improbidade administrativa com danoao erário movida pelo MPF pelo favorecimento de empresa contratada sem adevida licitação para projeto de obra ferroviária.",
+      "dataAtualizacao": "14/12/2015"
+    },
+    {
+      "nome": "Claudio Cajado",
+      "partido": "DEM",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Daniel Almeida",
+      "partido": "PCdoB",
+      "estado": "BA",
+      "totalOcorrencias": "4",
+      "resumo": "Teve reprovada a prestação de contas referente às eleições de 2010. Oparlamentar entrou com recurso, que foi negado. O TRE rejeitou as prestações decontas do PC do B-BA referentes aos exercícios de 1999, 2000 e de 2012; oparlamentar era dirigente do partido na época.",
+      "dataAtualizacao": "29/06/2015"
+    },
+    {
+      "nome": "Davidson Magalhães",
+      "partido": "PCdoB",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Elmar Nascimento",
+      "partido": "DEM",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Erivelton Santana",
+      "partido": "PEN",
+      "estado": "BA",
+      "totalOcorrencias": "3",
+      "resumo": "Teve reprovadas as contas referentes a sua candidatura nas eleições de 2014. Oparlamentar recorreu da decisão e obteve o afastamento da pena de multa, mas ascontas foram mantidas desaprovadas. Foi condenado a ressarcir os cofres públicosnos seguintes processos, referentes ao período em que o parlamentar foi vereadorde Salvador.",
+      "dataAtualizacao": "01/12/2015"
+    },
+    {
+      "nome": "Félix Mendonça Júnior",
+      "partido": "PDT",
+      "estado": "BA",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de inquérito por crimes previstos na legislação extravagante. É alvo deinquérito que apura crimes de aliciamento eleitoral. Teve reprovada prestação decontas referente às eleições de 2006",
+      "dataAtualizacao": "29/06/2015"
+    },
+    {
+      "nome": "Fernando Torres",
+      "partido": "PSD",
+      "estado": "BA",
+      "totalOcorrencias": "5",
+      "resumo": "É alvo de inquéritos que apuram crime de lavagem de dinheiro no esquemainvestigado pela Operação Miqueias da Policia Federal, que consistia em desvio derecursos de fundos de pensão e lavagem de dinheiro. Também é investigado odeputado federal Waldir Maranhão (PP-MA). É réu em ação penal que apura crimede revenda de combustíveis em desacordo com a legislação.É réu em ação penalmovida pelo MPE.",
+      "dataAtualizacao": "14/12/2015"
+    },
+    {
+      "nome": "Irmão Lazaro",
+      "partido": "PSC",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "João Carlos Bacelar",
+      "partido": "PR",
+      "estado": "BA",
+      "totalOcorrencias": "4",
+      "resumo": "Sua prestação de contas eleitorais da campanha de 2014 foi desaprovada. Oparlamentar entrou com três recursos na segunda instância, mas a decisão foimantida. Recorre ainda à terceira instância. É alvo de inquérito que apura crime depeculato e falsidade ideológica."
+    },
+    {
+      "nome": "João Gualberto",
+      "partido": "PSDB",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jorge Solla",
+      "partido": "PT",
+      "estado": "BA",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de ação civil de improbidade administrativa com dano ao erário."
+    },
+    {
+      "nome": "José Carlos Aleluia",
+      "partido": "DEM",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "José Carlos Araújo",
+      "partido": "PR",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "José Nunes",
+      "partido": "PSD",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "José Rocha",
+      "partido": "PR",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jutahy Junior",
+      "partido": "PSDB",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Lucio Vieira Lima",
+      "partido": "PMDB",
+      "estado": "BA",
+      "totalOcorrencias": "1",
+      "resumo": "O PMDB na Bahia teve reprovada a prestação de contas referente ao exercício de2007, quando o parlamentar presidia o partido no estado.",
+      "dataAtualizacao": "28/03/2016"
+    },
+    {
+      "nome": "Márcio Marinho",
+      "partido": "PRB",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Mário Negromonte Jr.",
+      "partido": "PP",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Moema Gramacho",
+      "partido": "PT",
+      "estado": "BA",
+      "totalOcorrencias": "3",
+      "resumo": "Foi multada e condenada a restituir mais de R$ 1,3 milhão aos cofres públicos porrepasses ilegais feitos à União Brasileira de Desenvolvimento Social e outrasirregularidades. É ré em ação civil de improbidade administrativa, ajuizada peloMPF É alvo de inquérito referente a crimes de responsabilidade.",
+      "dataAtualizacao": "14/12/2015"
+    },
+    {
+      "nome": "Paulo Azi",
+      "partido": "DEM",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Paulo Magalhães",
+      "partido": "PSD",
+      "estado": "BA",
+      "totalOcorrencias": "2",
+      "resumo": "É réu em ação penal por falso eleitoral. É alvo de ação civil por improbidadeadministrativa. Trata-se do caso de grampo ilegal na linha do ex-deputado federal eex-ministro da Integração Nacional Geddel Vieira (PMDB).",
+      "dataAtualizacao": "30/03/2016"
+    },
+    {
+      "nome": "Roberto Britto",
+      "partido": "PP",
+      "estado": "BA",
+      "totalOcorrencias": "3",
+      "resumo": "É alvo de inquérito aberto com a Operação Lava Jato da Policia Federal, queinvestiga esquema de corrupção, formação de quadrilha e lavagem de dinheiro comrecursos desviados da Petrobras.É alvo de ação de improbidade. É alvo derepresentação movida pelo Ministério Público por conduta vedada a agente público.",
+      "dataAtualizacao": "11/12/2015"
+    },
+    {
+      "nome": "Ronaldo Carletto",
+      "partido": "PP",
+      "estado": "BA",
+      "totalOcorrencias": "3",
+      "resumo": "Foram reprovadas as contas de sua campanha eleitoral de 2014, para o cargo dedeputado federal. O parlamentar recorreu, mas a decisão se manteve. É alvo dedois inquéritos no STF",
+      "dataAtualizacao": "14/12/2015"
+    },
+    {
+      "nome": "Sérgio Brito",
+      "partido": "PSD",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Tia Eron",
+      "partido": "PRB",
+      "estado": "BA",
+      "totalOcorrencias": "1",
+      "resumo": "É ré em ação por improbidade administrativa movida pelo Ministério Público.",
+      "dataAtualizacao": "14/12/2015"
+    },
+    {
+      "nome": "Uldurico Junior",
+      "partido": "PV",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Valmir Assunção",
+      "partido": "PT",
+      "estado": "BA",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito que apura suposta prática de crimes eleitorais. Teve reprovadaa prestação de contas referente às eleições de 2002.",
+      "dataAtualizacao": "01/07/2015"
+    },
+    {
+      "nome": "Waldenor Pereira",
+      "partido": "PT",
+      "estado": "BA",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Adelson Barreto",
+      "partido": "PR",
+      "estado": "SE",
+      "totalOcorrencias": "3",
+      "resumo": "Teve as contas da campanha no pleito de 2014 julgadas irregulares. O parlamentarrecorreu, mas a decisão foi mantida. É alvo de representação movida peloMinistério Público Eleitoral por conduta vedada a agente público, com pedido deaplicação de multa e de cassação de diploma. É alvo de ação civil de improbidadeadministrativa com dano ao erário e enriquecimento ilícito, movida pelo MinistérioPúblico do Estado de Sergipe. Em decisão liminar, foi decretada a indisponibilidadede bens do deputado, no montante de R$ 400 mil.",
+      "dataAtualizacao": "26/10/2015"
+    },
+    {
+      "nome": "Andre Moura",
+      "partido": "PSC",
+      "estado": "SE",
+      "totalOcorrencias": "14",
+      "resumo": "Foi responsabilizado por fraude em licitações, fracionamento de despesas einscrição irregular de beneficiários no programa Bolsa Família. É réu em três açõespenais (969, 973 e 974) no STF que envolvem crimes conexos - apropriação,desvio ou utilização de bens públicos do Município de Pirambu (SE), em que oparlamentar é acusado de ter continuado a usufruir de bens e serviços custeadospela administração municipal, na gestão do prefeito Juarez Batista dos Santos,posterior à sua, de 2005 a 2007. É alvo de inquérito que apura crime contra a Leide Licitações e peculato. É alvo de inquérito que apura crime eleitoral de transporteem dia de eleição. É réu em ação civil pública por improbidade administrativa (danoao erário e violação aos princípios administrativos) movida pelo Ministério PúblicoEstadual. O MP ajuizou a ação em face do parlamentar devido a realização decompras irregulares de mercadorias para a satisfação de interesses pessoais emdetrimento do interesse público. Foi condenado em primeira e segunda instânciapor improbidade administrativa. O TJ-SE decidiu pela suspensão dos direitospolíticos dos réus, o que o tornaria inelegível e acarretaria na não-diplomação paraa legislatura de 2015-2019. O parlamentar conseguiu a suspensão dessa decisãono STJ. Teve desaprovada a prestação de contas referente às eleições de 2014. Oparlamentar recorre na segunda instância.",
+      "dataAtualizacao": "21/07/2015"
+    },
+    {
+      "nome": "Fábio Mitidieri",
+      "partido": "PSD",
+      "estado": "SE",
+      "totalOcorrencias": "2",
+      "resumo": "Teve as contas da campanha no pleito de 2014 desaprovadas. É réu, juntamentecom sua irmã, em ação penal por crime contra a ordem tributária.",
+      "dataAtualizacao": "26/10/2015"
+    },
+    {
+      "nome": "Fabio Reis",
+      "partido": "PMDB",
+      "estado": "SE",
+      "totalOcorrencias": "2",
+      "resumo": "O parlamentar teve as contas das campanhas eleitorais de 2014 desaprovadas.Recorre da decisão. É alvo de inquérito por crime eleitoral. O parlamentar éinvestigado por desobedecer ordens da Justiça Eleitoral.",
+      "dataAtualizacao": "21/07/2015"
+    },
+    {
+      "nome": "João Daniel",
+      "partido": "PT",
+      "estado": "SE",
+      "totalOcorrencias": "2",
+      "resumo": "Teve as contas do pleito de 2014 rejeitadas. O parlamentar recorreu, mas a decisãopela desaprovação foi mantida. Foi julgada procedente representação movida peloMinistério Público Eleitoral de Sergipe por conduta vedada a agente publico, compedido de aplicação de multa e cassação de diploma."
+    },
+    {
+      "nome": "Jony Marcos",
+      "partido": "PRB",
+      "estado": "SE",
+      "totalOcorrencias": "1",
+      "resumo": "A Justiça Eleitoral desaprovou e impugnou a prestação de contas de sua campanhaeleitoral de 2014. O parlamentar recorreu, mas a decisão foi mantida"
+    },
+    {
+      "nome": "Laercio Oliveira",
+      "partido": "SD",
+      "estado": "SE",
+      "totalOcorrencias": "1",
+      "resumo": "O MPE entrou com impugnação de suas contas eleitorais referentes à candidaturade 2014. O TSE deu provimento à impugnação proposta e desaprovou as contas. Oparlamentar recorre",
+      "dataAtualizacao": "22/07/2015"
+    },
+    {
+      "nome": "Valadares Filho",
+      "partido": "PSB",
+      "estado": "SE",
+      "totalOcorrencias": "2",
+      "resumo": "Suas contas contas da campanha eleitoral de 2014 foram reprovadas. Após o TSEmanter a decisão, negando provimento a seus embargos de declaração, oparlamentar entrou com Recurso especial eleitoral. A Justiça Eleitoral desaprovouas contas de 2009 do PSB quando o parlamentar era presidente regional da sigla.",
+      "dataAtualizacao": "21/07/2015"
+    },
+    {
+      "nome": "Arthur Lira",
+      "partido": "PP",
+      "estado": "AL",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito que apura corrupção passiva e lavagem de dinheiro. Processocorre sob segredo de justiça. É alvo de inquéritos abertos com a Operação LavaJato da Policia Federal, que investigam esquema de corrupção, formação dequadrilha e lavagem de dinheiro com recursos desviados da Petrobras.",
+      "dataAtualizacao": "02/02/2016"
+    },
+    {
+      "nome": "Cícero Almeida",
+      "partido": "PMDB",
+      "estado": "AL",
+      "totalOcorrencias": "5",
+      "resumo": "Foi condenado por improbidade administrativa por irregularidade constatada noconvênio celebrado para realização do carnaval de 2008 em Maceió.O parlamentarrecorre. É réu em ação penal referente a crimes de responsabilidade e contra a leide licitações. É alvo de inquérito referente a crimes da Lei de Licitações. É réu emação civil de improbidade administrativa com enriquecimento ilícito, movida peloMunicípio de Maceió. É alvo de ação civil de improbidade administrativa e açãopenal movidas pelo Ministério Público Estadual. A ação civil de improbidadeadministrativa em primeira instância corre sob segredo de Justiça. Foi determinadaa quebra de sigilo bancário e fiscal, indisponibilidade parcial dos bens.",
+      "dataAtualizacao": "02/02/2016"
+    },
+    {
+      "nome": "Givaldo Carimbão",
+      "partido": "PHS",
+      "estado": "AL",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Jhc",
+      "partido": "PSB",
+      "estado": "AL",
+      "totalOcorrencias": "0",
+      "resumo": "-"
+    },
+    {
+      "nome": "Marx Beltrão",
+      "partido": "PMDB",
+      "estado": "AL",
+      "totalOcorrencias": "1",
+      "resumo": "É réu em ação penal por falsidade ideológica. De acordo com a denúnciaapresentada, quando era prefeito de Coruripe (AL) em 2011 e 2012, o parlamentarelaborou, assinou e apresentou ao Ministério da Previdência Social seiscomprovantes de repasse de valores à previdência dos servidores públicos, quecontinham informações falsas.",
+      "dataAtualizacao": "02/02/2016"
+    },
+    {
+      "nome": "Maurício Quintella Lessa",
+      "partido": "PR",
+      "estado": "AL",
+      "totalOcorrencias": "2",
+      "resumo": "É alvo de inquérito que apura peculato. Foi condenado por improbidadeadministrativa com dano ao erário e enriquecimento ilícito. O deputado recorre dasentença.",
+      "dataAtualizacao": "09/12/2015"
+    },
+    {
+      "nome": "Paulão",
+      "partido": "PT",
+      "estado": "AL",
+      "totalOcorrencias": "1",
+      "resumo": "É alvo de inquérito que apura crime de estelionato.",
+      "dataAtualizacao": "02/02/2016"
+    },
+    {
+      "nome": "Pedro Vilela",
+      "partido": "PSDB",
+      "estado": "AL",
+      "totalOcorrencias": "1",
+      "resumo": "Teve reprovada a prestação de contas das eleições de 2014 para deputado federal.",
+      "dataAtualizacao": "02/02/2016"
+    },
+    {
+      "nome": "Ronaldo Lessa",
+      "partido": "PDT",
+      "estado": "AL",
+      "totalOcorrencias": "9",
+      "resumo": "Foi condenado à pena de oito meses de reclusão, convertida em prestação deserviços à comunidade, e ao pagamento de multa por calúnia eleitoral. Conformeconsta nos autos, em outubro de 2010, o comitê de campanha do PDT foiarrombado e, na ocasião, foram furtados do local dois computadores. RonaldoLessa, então candidato ao cargo de governador de Alagoas, teria afirmado, semqualquer prova, que o maior suspeito do crime era o governo, referindo-se ao entãogovernador e candidato a reeleição, Teotônio Vilela Filho (PSDB-AL), em entrevistadivulgada no jornal Gazeta de Alagoas, de acordo com a denúncia. O tribunalconsiderou que houve dolo na intenção de ofender a honra do adversário emdisputa eleitoral. O parlamentar recorreu da decisão, que foi mantida.  Condenadopor peculato e crimes contra a administração pública a 13 anos de prisão epagamento de multa. O caso envolve superfaturamento de obras e desvio de maisde R$ 5 milhões que deveriam ser destinados a obras para saneamento econtenção de enchentes em Alagoas. O parlamentar recorre. Condenado em açãocivil pública de improbidade administrativa em função de má administração e desviode finalidade de R$ 50 milhões do Fundo Estadual de Combate e Erradicação daPobreza. A Justiça determinou a perda da função pública, a suspensão de seusdireitos políticos por três anos e a aplicação de multa. Há recurso em andamento.Em Tomada de Contas Especial, foram encontradas irregularidades na aplicaçãode recursos federais recebidos pelo estado de Alagoas, que tinha o parlamentarcomo seu representante legal. O estado foi condenado a pagamento de débito àUnião. É réu em ação penal referente a peculato, formação de quadrilha e crimesda lei de licitações. É  alvo de inquérito referente a crimes eleitorais. É réu emoutras ações civis públicas de improbidade administrativa.",
+      "dataAtualizacao": "02/02/2016"
+    }
+  ]
+}
