@@ -7,7 +7,7 @@ const schema = new mongoose.Schema({
 	nome : String,
 	partido : String,
 	estado : String,
-	totalOcorrencia : { type: Number, default: 0},
+	totalOcorrencias : { type: Number, default: 0},
 	resumo : String,
 	dataAtualizacao : String
 });

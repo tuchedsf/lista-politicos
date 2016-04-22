@@ -27,9 +27,14 @@ O que a aplicação faz:
 
 * Lista os deputados e informações referentes a processos juridicos
 
- 
 
 Possíveis Melhorias a serem feitas:
 
 * criar rotina para ler pdf e dar carga no mongoDB com as informações
 * Integrar datatable para facilitar a pesquisa, paginação e sort.
+
+Histórico
+* 22/04
+	* Ajuste arquivo json para ser importado atraves do comando mongoImport
+		* mongoimport --db politico --collection politicos --drop --file data.json
+	* Ajuste totalOcorrencia, no data.json estava totalOcorrencias enquanto a app estava totalOcorrencia, dessa forma listava 0 em tudo.
