@@ -1,4 +1,4 @@
-﻿<!-- index.html -->
+<!-- index.html -->
 <!doctype html>
 
 <!-- ESPECIFICANDO NOSSO MÓDULO ANGULAR listaContatos -->
@@ -20,6 +20,12 @@
         #lista-politicos         { margin-bottom:30px; }
         form button             { margin-top: 25px; }
         form .form-group:first-child { padding-left: 0; }
+        #logo {
+          background-size:cover;
+          background-position:center;
+          background-image: url("bandeira.png");  
+          background-repeat: no-repeat; 
+        }
     </style>
 
     <!-- JS -->
@@ -35,29 +41,32 @@
     <div class="container">
 
         <!-- CABEÇALHO E TOTAL DE CONTATOS -->
-        <div class="jumbotron text-center">
-               <h2>Ocorrências na Justiça e/ou nos Tribunais de Contas dos Deputados</h2>
-        </div>
-        <div class="jumbotron text-justify">
-                Levantamento sobre "as ocorrências na Justiça e/ou nos Tribunais de Contas" dos 513 deputados que votarão o impeachment da presidente Dilma Rousseff neste domingo, 17 de abril de 2016. <br/>
+        
+        <div class="jumbotron text-center" id="logo">
+          <h2>Ocorrências na Justiça e/ou nos Tribunais de Contas dos Deputados</h2>
+                   Levantamento sobre "as ocorrências na Justiça e/ou nos Tribunais de Contas" dos 513 deputados que votarão o impeachment da presidente Dilma Rousseff neste domingo, 17 de abril de 2016. <br/>
                 <h3>Fonte: www.lupa.news / @LupaNew - Total registros: <span class="label label-info">{{ politicos.length }}</span></h3>
         </div>
 
         <!-- LISTA NOSSOS CONTATOS -->
+        
+        <label>Buscar: </label>
+        <input type="search" placeholder="Buscar deputado" ng-model="nomePolitico" class="form-control">
+        </br>
         <div id="lista-politicos">
             <table class="table table-striped">
                 <tr>
                 <!--  <th>Qtde</th>-->  
                     <th>Deputado</th>
-                    <th>Sigla</th>
-                    <th>UF</th>
-                    <th>Total Ocorrências</th>
+                    <th>Partido</th>
+                    <th>Estado</th>
+                    <th>Processos</th>
                     <th>Resumo</th>
                     <th>Data Atualização</th>
                 </tr>
 
                 <!-- LOOP PARA CARREGAR TODOS OS CONTATOS EM $scope.contatos -->
-                <tr ng-repeat="politico in politicos">
+                <tr ng-repeat="politico in politicos | filter:nomePolitico">
                <!--   <td>0</td>-->  
                     <td>{{ politico.nome }}</td>
                     <td>{{ politico.partido }}</td>
