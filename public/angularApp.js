@@ -17,4 +17,6 @@ function mainController($scope, $http){
             });
     };
     refresh();
+    
+    $scope.nomePolitico = '';
 }
